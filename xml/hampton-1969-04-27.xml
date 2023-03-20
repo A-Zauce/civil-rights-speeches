@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <speech title="you_can_murder_a_liberator,_but_you_can't_murder_liberation" speaker="f_hampton" organization="black_panthers" date="1969-04-27" source="mia">
     <!--amz: source link https://www.marxists.org/archive/hampton/1969/04/27.htm-->
 <section heading="intro">
