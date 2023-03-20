@@ -7,8 +7,9 @@ organization=attribute organization{text}
 date=attribute date{text}
 source=attribute source{text}
 
-section=element section{heading, (org | person | cause | policy | act | text)+}
+section=element section{heading, p+, (org | person | cause | policy | act | text)+}
 heading=attribute heading{text}
+p=element p{(org | person | cause | policy | act | text)*}
 org=element org{group+, text}
 group=attribute group{text}
 person=element person{name*, text}
