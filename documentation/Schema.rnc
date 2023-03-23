@@ -1,0 +1,21 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start=speech
+speech=element speech{title, speaker, organization, date, source, section+}
+title=attribute title{text}
+speaker=attribute speaker{text}
+organization=attribute organization{text}
+date=attribute date{text}
+source=attribute source{text}
+
+section=element section{heading, p+, (org | person | cause | policy | act | text)+}
+heading=attribute heading{text}
+p=element p{(org | person | cause | policy | act | text)*}
+org=element org{group+, text}
+group=attribute group{text}
+person=element person{name*, text}
+name=attribute name{text}
+cause=element cause{cat,(person | org | policy | text )*}
+cat=attribute cat{text}
+policy=element policy{cat,(person | policy | org | text)*}
+act=element act{cat, subcat*,(org | person | policy | text)*}
+subcat=attribute subcat{text}
