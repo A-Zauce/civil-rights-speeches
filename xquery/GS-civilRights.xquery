@@ -6,5 +6,6 @@ declare variable $tab := "&#9;";     (: note: global variables come at top of do
 let $subCats :=//speech//act/data(@subcat)=>distinct-values()
 (: this is to list the subcategories within the speech :)
 for $subCat in $subCats
-order by $subCat ascending (: this lists the subcats in alphabetical order :)
-return ($subCat, $linefeed) (: this formats the outputs so they occur in a list form with one on top of another :)
+order by $subCat (:    this lists the subcats in alphabetical order :)
+count $pos
+return ($pos, $subCat, $linefeed) (: this formats the outputs so they occur in a list form with one on top of another :)
