@@ -9,8 +9,9 @@ source=attribute source{text}
 
 section=element section{heading, p+, (org | person | cause | policy | act | text)+}
 heading=attribute heading{text}
-p=element p{(org | person | cause | policy | act | text)*}
+p=element p{(org | person | cause | policy | act | set| text)*}
 org=element org{group+, text}
+set=element set{group+, text}
 group=attribute group{text}
 person=element person{name*, text}
 name=attribute name{text}
