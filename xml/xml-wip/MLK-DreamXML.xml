@@ -7,13 +7,13 @@
             <act cat="non-violence" subcat="gathering">demonstration </act> for freedom in the history of our nation. Five score years ago, a great
             <person name="Abraham Lincoln">American</person>, in whose symbolic shadow
             we stand, <act cat="law" subcat="civil-rights">signed the Emancipation Proclamation</act>. This momentous decree came as a great
-            beacon light of hope to millions of <org name="Afro-Americans" type="race">Negro</org> slaves had been seared in the flames of
+            beacon light of hope to millions of <set name="african" type="ethnicity">Negro</set> slaves had been seared in the flames of
             withering <policy cat="injustice">injustice</policy>. It came as a joyous daybreak to end the long night of captivity. </p>
-        <p> But one hundred years later, we must face the tragic fact that the <org name="Afro-Americans" type="race">Negro</org> is still <policy cat="injustice">not
-            free</policy>. One hundred years later, the life of the <org name="Afro-Americans" type="race">Negro</org> is still sadly crippled by the
+        <p> But one hundred years later, we must face the tragic fact that the <set name="african" type="ethnicity">Negro</set> is still <policy cat="injustice">not
+            free</policy>. One hundred years later, the life of the <set name="african" type="ethnicity">Negro</set> is still sadly crippled by the
             manacles of segregation and the chains of <policy cat="discrimination">discrimination</policy>. One hundred years later, the
-            <org name="Afro-Americans" type="race">Negro</org> lives on a <policy cat="inequality">lonely island of poverty in the midst of a vast ocean of material
-            prosperity</policy>. One hundred years later the <org name="Afro-Americans" type="race">Negro</org> is still languishing in the comers of
+            <set name="african" type="ethnicity">Negro</set> lives on a <policy cat="inequality">lonely island of poverty in the midst of a vast ocean of material
+            prosperity</policy>. One hundred years later the <set name="african" type="ethnicity">Negro</set> is still languishing in the comers of
             <org name="american" type="nationality">American</org> society and finds <org name="Afro-Americans" type="race">himself</org> an <policy cat="inequality">exile in his own land</policy>. <act cat="non-violence" subcat="demostration">So we have come here today
                 to dramatize an appalling condition.</act> </p>
         <p> In a sense we have come to our nation’s capital to cash a check. When the <org name="founders" type="pol_org">architects</org> of
@@ -23,7 +23,7 @@
             life, liberty, and the pursuit of happiness. </p>
         <p> It is obvious today that America has defaulted on this promissory note insofar as her
             citizens of color are concerned. Instead of honoring this sacred obligation, America has
-            given the <org name="Afro-Americans" type="race">Negro</org> people a bad check; a check which has come back marked “insufficient
+            given the <set name="african" type="ethnicity">Negro</set> people a bad check; a check which has come back marked “insufficient
             funds.” But we refuse to believe that the bank of justice is bankrupt. We refuse to
             believe that there are insufficient funds in the great vaults of opportunity of this
             nation. So we have come to cash this check a check that will give us <cause>upon demand the
@@ -35,12 +35,12 @@
             doors of opportunity to all of God’s children. Now is the time to lift our nation from
             the quicksands of racial injustice to the solid rock of brotherhood. </p>
         <p> It would be fatal for the nation to overlook the urgency of the moment and to
-            underestimate the determination of the <group name="black" type="race"><org name="Afro-Americans" type="race">Negro</org></group>.
-            This sweltering summer of the <org name="Afro-Americans" type="race">Negro</org>’s legitimate discontent will not pass until there is
+            underestimate the determination of the <group name="black" type="race"><set name="african" type="ethnicity">Negro</set></group>.
+            This sweltering summer of the <set name="african" type="ethnicity">Negro</set>’s legitimate discontent will not pass until there is
             an invigorating autumn of freedom and equality. Nineteen sixty three is not an end, but
-            a beginning. Those who hope that the <org name="Afro-Americans" type="race">Negro</org> needed to blow off steam and will now be
+            a beginning. Those who hope that the <set name="african" type="ethnicity">Negro</set> needed to blow off steam and will now be
             content will have a rude awakening if the nation returns to business as usual. There
-            will be neither rest nor try America until the <org name="Afro-Americans" type="race">Negro</org> is granted his citizenship rights.
+            will be neither rest nor try America until the <set name="african" type="ethnicity">Negro</set> is granted his citizenship rights.
             The whirlwinds of revolt will continue to shake the foundations of our nation until the
             bright day of justice emerges. </p>
         <p> But there is something that I must say to my people who stand on the warm threshold
@@ -49,7 +49,7 @@
             by drinking from bitterness and hatred. We must forever conduct our struggle on the high
             plane of dignity and discipline. We must not allow our creative protest to degenerate
             into physical violence. Again and again we must rise to the majestic heights of meeting
-            physical force with soul force. The marvelous new militancy which has engulfed the <org name="Afro-Americans" type="race">Negro</org>
+            physical force with soul force. The marvelous new militancy which has engulfed the <set name="african" type="ethnicity">Negro</set>
             community must not lead us to a distrust of all white people, for many of our white
             brothers, as evidenced by their presence here today, have come to realize that their
             destiny is tied up with our destiny and their freedom is inextricable bound to our
@@ -57,12 +57,12 @@
         <p> We cannot walk alone. </p>
         <p> And as we walk, we must make the pledge that we shall march ahead. We cannot turn back.
             There are those who are asking the devotees of civil rights, “When will you be
-            satisfied?” We can never be satisfied as long as the <org name="Afro-Americans" type="race">Negro</org> is the victim of the
+            satisfied?” We can never be satisfied as long as the <set name="african" type="ethnicity">Negro</set> is the victim of the
             unspeakable horrors of police brutality. We can never be satisfied as long as our
             bodies, heavy with the fatigue of travel, cannot gain lodging in the motels of the
-            highways and the hotels of the cities. We cannot be satisfied as long as the <org name="Afro-Americans" type="race">Negro</org>’s
+            highways and the hotels of the cities. We cannot be satisfied as long as the <set name="african" type="ethnicity">Negro</set>’s
             basic mobility is from a smaller ghetto to a larger one. We can never be satisfied as
-            long as a <org name="Afro-Americans" type="race">Negro</org> in Mississippi cannot vote and a <org name="Afro-Americans" type="race">Negro</org> in New York believes he has
+            long as a <set name="african" type="ethnicity">Negro</set> in Mississippi cannot vote and a <set name="african" type="ethnicity">Negro</set> in New York believes he has
             nothing for which to vote. No, no, we are not satisfied, and will not be satisfied until
             justice rolls down like waters and righteousness like a mighty stream. </p>
         <p> I am not unmindful that some of you have come here out of great trials and tribulations.
@@ -87,7 +87,7 @@
         <p> I have a dream that my four little children will one day live in a nation where they
             will not be judged by the color of their skin but by the content of their character. </p>
         <p> I have a dream today. </p>
-        <p> I have a dream that one day the state of Alabama, whose governor’s lips are presently
+        <p> I have a dream that one day the state of Alabama, whose <person>governor</person>’s lips are presently
             dripping with the words of interposition and nullification, will be transformed into a
             situation where little black boys and black girls will be able to join hands with little
             white boys and white girls and walk together as sisters and brothers. </p>
@@ -117,7 +117,7 @@
         <p> When we let freedom ring, when we let it ring from every village and every hamlet, from
             every state and every city, we will be able to speed up that day when all of God’s
             children, black men and white men, Jews and Gentiles, Protestants and Catholics, will be
-            able to join hands and sing in the words of the old <org name="Afro-Americans" type="race">Negro</org> spiritual, “Free at last! Free
+            able to join hands and sing in the words of the old <set name="african" type="ethnicity">Negro</set> spiritual, “Free at last! Free
             at last! Thank God Almighty, we are free at last!” </p>
 
     </Section>
