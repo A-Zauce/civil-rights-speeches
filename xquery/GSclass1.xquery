@@ -15,7 +15,9 @@
 for $subCat in $subCats
 order by $subCat
 count $pos
-return ($pos, $subCat, tr)
+
+return 
+<tr><td>{$pos}</td> <td>{$subCat}</td></tr>
 }
 
 
