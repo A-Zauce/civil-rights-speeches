@@ -2,8 +2,8 @@ declare option saxon:output "method=text";  (:will create a text output strippin
 declare variable $linefeed := "&#10;";  (: global variable: now we can call for it without using the escape character :)
 declare variable $tab := "&#9;";     (: note: global variables come at top of doc and line ends with semicolon :)
 
-let $indivs :=//speech/section/p (: identifying individuals referenced :)
+let $indivs :=//speech/section/p//person/data(@name)=>distinct-values() (: identifying individuals referenced :)
 let $indiv-count := $indivs => count()  (: counting how many referenced :)
 for $indiv in $indivs 
 order by $indiv-count  (:trying to count who was referenced first :)
-return ($indiv/person, $tab, $indiv-count , $linefeed)
+return ($indiv, $tab, $indiv-count , $linefeed)
