@@ -1,0 +1,68 @@
+body{
+    background: #f9feff;
+}
+
+nav{
+	  position: fixed;
+    top: 0;
+    left: 0;
+ 	width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background: #252525;
+}
+
+a{
+    color: #fffcfd;
+    text-decoration: none;
+}
+
+.dropDown {
+    padding: 12px 0px;
+    position: relative;
+    cursor: pointer;
+}
+
+.dropDown > a{
+    padding: 0px 30px;
+    gap: 2px;
+}
+
+.dropDown:hover .menu{
+    opacity: 1;
+    visibility: visible;
+}
+
+.menu{
+    position: absolute;
+    top: 45px;
+    display: grid;
+    background: #252525;
+    opacity: 0;
+    visibility: hidden;
+    transition: .25s;
+}
+
+.menu > a {
+    font-size: 14px;
+    padding: 12px 20px;
+}
+
+.menu > a:hover, .dropDown:hover{
+    color: #fffcfd;
+    background:black;
+}
+
+.section-divider{
+    display: block;
+    height: 1px;
+    margin: 0;
+    border: none;
+    background-color: #252525;
+    width: 85%;
+    margin: auto;
+}
+
+
+
+
