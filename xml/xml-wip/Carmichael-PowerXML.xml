@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<speech  title="black_power" speaker="stokely_carmichael" organization="" date="" source="blackpast"> 
-    (1966) STOKELY CARMICHAEL, “BLACK POWER” <p> </p>
+<speech  title="black_power" speaker="stokely_carmichael" organization="SNCC" date="1966-10-29" source="blackpast"> 
+    <p>(1966) STOKELY CARMICHAEL, “BLACK POWER” </p>
     <p> It’s a privilege and an honor to be in
         the white intellectual ghetto of the West. This is a student conference, as it should be,
         held on a campus, and we’ll never be caught up in intellectual masturbation on the question
         of <cause cat="self-determination">Black Power</cause>. That’s the function of the people who are advertisers but call themselves
         reporters. Incidentally, for my friends and members of the press, my self-appointed white
-        critics, I was reading <person>Mr. Bernard Shaw</person> two days ago, and I came across a very important
+        critics, I was reading <person name="bernard_shaw" occupation="writer" >Mr. Bernard Shaw</person> two days ago, and I came across a very important
         quote that I think is most apropos to you. He says, “All criticism is an autobiography.” Dig
         yourself. Ok. </p>
-    <p> The philosophers <person>Camus</person> and <person>Sartre</person> raise the
+    <p> The philosophers <person >Camus</person> and <person name="">Sartre</person> raise the
         question of whether or not a man can condemn himself. The <set group="african" type="ethnicity">black</set> existentialist philosopher
         who is pragmatic, <person>Frantz Fanon</person>, answered the question. He said that man could
         not. <person>Camus</person> and <person>Sartre</person> don’t answer the question. We in <org> SNCC </org> tend to agree with <person>Fanon<person>–a man
