@@ -2,7 +2,7 @@
 <speech title="the_vote_is_the_only_effective_weapon" speaker="joseph_h_jackson" organization="NBC" date="1964-09-19" source="blackpast"> (
     <p>1964 JOSEPH JACKSON, “THE VOTE IS THE ONLY EFFECTIVE WEAPON IN THE CIVIL RIGHTS STRUGGLE"</p>
     
-    <p> As <set>Christians</org> we are a part of our nation and a part of the struggle of America.
+    <p> As <set group="christians" type="religious_group">Christians</set> we are a part of our nation and a part of the struggle of America.
         America was brought into being to satisfy and to answer the human longing for freedom. There
         was the urge in man to be related to other men as men without a modifier or any kind of
         limitation or restriction. There was an awareness of a human kinship deeper than race, more
