@@ -88,7 +88,7 @@
         see, because now we have “modern-day missionaries,” and they come into our ghettos–they Head
         Start, Upward Lift, Bootstrap, and Upward Bound us into white society. They don’t want to
         face the real problem. A man is poor for one reason and one reason only–he does not have
-        money. If you want to get rid of poverty, you give people money. And you ought not tell me
+        money. <policy>If you want to get rid of poverty, you give people money.</policy> And you ought not tell me
         about people who don’t work, and that you can’t give people money if they don’t work,
         because if that were true, you’d have to start stopping <person name="nelson_rockefeller" occupation="politician">Rockefeller</person>, <person name="bobby_kennedy" occupation="politician">Kennedy</person>, <person name="LBJ" occuaption="politician">Lyndon Baines
             Johnson</person>, <person name="lady_bird_johnson" occupation="wife">Lady Bird Johnson</person>, the whole of <org group="standard_oil" type="company">Standard Oil</org>, the  <org group="gulf_corp" type="company">Gulf Corporation </org>, all of them,
@@ -122,9 +122,9 @@
     
     <p> So it is clear that this question is not one off integration or
         segregation. We cannot afford to be concerned about the 6 percent <set group="black" type="race">black children</set> in this
-        country whom you allow to enter white schools. We are going to be concerned about the 94
-        percent. You ought to be concerned about them too. But are we willing to be concerned about
-        the <set group="black" type="race">black people</set> who will never get to <org>Berkeley</org>, never get to <org>Harvard</org>, and cannot get an
+        country whom you allow to enter white schools. <policy>We are going to be concerned about the 94
+            percent. You ought to be concerned about them too.</policy> But are we willing to be concerned about
+        the <set group="black" type="race">black people</set> who will never get to <org group="uc_berkeley" type="education">Berkeley</org>, never get to <org group="harvard" type="education">Harvard</org>, and cannot get an
         education, the ones you’ll never get a chance to rub shoulders with and say, “Why, he’s
         almost as good as we are; he’s not like the others”? The question is, How can white society
         begin to move to see <set group="black" type="race">black people</set> as human beings? I am black, therefore I am. Not I am
