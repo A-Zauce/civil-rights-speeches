@@ -4,7 +4,7 @@
     <p> It’s a privilege and an honor to be in
         the white intellectual ghetto of the West. This is a student conference, as it should be,
         held on a campus, and we’ll never be caught up in intellectual masturbation on the question
-        of <cause cat="">Black Power</cause>. That’s the function of the people who are advertisers but call themselves
+        of <cause cat="self-determination">Black Power</cause>. That’s the function of the people who are advertisers but call themselves
         reporters. Incidentally, for my friends and members of the press, my self-appointed white
         critics, I was reading <person name="bernard_shaw" occupation="writer" >Mr. Bernard Shaw</person> two days ago, and I came across a very important
         quote that I think is most apropos to you. <person name="bernard_shaw" occupation="writer" >He </person>says, “All criticism is an autobiography.” Dig
@@ -35,14 +35,14 @@
     </p>
     <p> Several
         people have been upset because we’ve said that integration was irrelevant when initiated by
-        <set group="black" type="race">blacks</set>, and that in fact it was an insidious subterfuge for the <policy>maintenance of white
-            supremacy</policy>. In the past six years or so, this country has been feeding us a <policy>“thalidomide drug
-        of integration</policy>,” and some <set group="black" type="race">negroes</set> have been walking down a dream street talking about
+        <set group="black" type="race">blacks</set>, and that in fact it was an insidious subterfuge for the maintenance of white
+            supremacy. In the past six years or so, this country has been feeding us a “thalidomide drug
+        of integration,” and some <set group="black" type="race">negroes</set> have been walking down a dream street talking about
         sitting next to <set group="european" type="race">white people</set>. That does not begin to solve the problem. We didn’t go to
         Mississippi to sit next to <person name="ross_barnett" occupation="politician">Ross Barnett</person> (former governor of Mississippi), we did not go to
             sit next to <person  name="james_clark" occupation="police_officer">Jim Clark</person> (sheriff of Selma, Alabama), we went to get them out of our
-            way. People ought to understand that; we were <cause>never fighting for the right to integrate</cause>, <cause>we
-            were fighting against white supremacy</cause>. In order to understand <policy>white supremacy</policy> we must
+            way. People ought to understand that; we were <cause cat="pro-integratation">never fighting for the right to integrate</cause>, <cause cat="anti-white_supremacy">we
+            were fighting against white supremacy</cause>. In order to understand white supremacy, we must
         dismiss the fallacious notion that <set group="european" type="race">white people</set> can give anybody his freedom. A man is born
         free. You may enslave a man after he is born free, and that is in fact what this country
         does. It enslaves <set group="black" type="race">blacks</set> after they’re born. The only thing <set group="european" type="race">white people</set> can do is stop
@@ -52,22 +52,22 @@
         For example, I am black. I know that. I also know that while I am black I am a human being.
         Therefore I have the right to go into any public place. <set group="european" type="race">White people</set> don’t know that. Every time I tried to go into a public
         place they stopped me. So some boys had to write a bill to tell that <set group="european" type="race">white man</set>, “He’s a
-        human being; don’t stop him.” That bill was for the <set group="european" type="race">white man</set>, not for me. I knew I could
-        vote all the time and that it wasn’t a privilege but my right. Every time I tried I was
+        human being; don’t stop him.” That bill was for the <set group="european" type="race">white man</set>, not for me. I knew <act cat="non-violence" subcat="voting">I could
+            vote all the time and that it wasn’t a privilege but my right.</act> Every time I tried I was
         shot, killed or jailed, beaten or economically deprived. So somebody had to write a bill to
         tell <set group="european" type="race">white people</set>, “When a <set group="black" type="race">black man</set> comes to vote, don’t bother him.” That bill was for
         <set group="european" type="race">white people</set>. I know I can live anyplace I want to live. It is <set group="european" type="race">white people</set> across this
         country who are incapable of allowing me to live where I want. You need a civil rights bill,
         not me. The failure of the civil rights bill isn’t because of <cause cat="self-determination">Black Power</cause> or because of the
         <org group="sncc" type="cr_org">Student Nonviolent Coordinating Committee </org> or because of the rebellions that are occurring in
-        the major cities. That failure is due to the white’s incapacity to deal with their own
+        the major cities. That failure is due to the <set group="european" type="race">white’s</set> incapacity to deal with their own
         problems inside their own communities. And so in a sense we must ask, How is it that <set group="black" type="race">black
             people</set> move? And what do we do? But the question in a much greater sense is, How can <set group="european" type="race">white
             people</set> who are the majority, and who are responsible for making democracy work, make it
         work? They have never made democracy work, be it inside the United States, Vietnam, South
-        Africa, the Philippines, South America, Puerto Rico, or wherever America has been. We not
+        Africa, the Philippines, South America, Puerto Rico, or wherever America has been.<cause> We not
         only condemn the country for what it has done internally, but we must condemn it for what it
-        does externally. We see this country trying to rule the world, and someone must stand up and
+        does externally. </cause>We see this country trying to rule the world, and someone must stand up and
         start articulating that this country is not <person name="god" occupation="god">God</person>, and that it cannot rule the world. </p>
     
     <p>
@@ -92,7 +92,7 @@
         about people who don’t work, and that you can’t give people money if they don’t work,
         because if that were true, you’d have to start stopping <person name="nelson_rockefeller" occupation="politician">Rockefeller</person>, <person name="bobby_kennedy" occupation="politician">Kennedy</person>, <person name="LBJ" occuaption="politician">Lyndon Baines
             Johnson</person>, <person name="lady_bird_johnson" occupation="wife">Lady Bird Johnson</person>, the whole of <org group="standard_oil" type="company">Standard Oil</org>, the  <org group="gulf_corp" type="company">Gulf Corporation </org>, all of them,
-        including probably a large number of the board of trustees of this university. The question,
+        including probably a large number of the board of trustees of <org group="uc_berkeley" type="education">this university</org>. The question,
         then, is not whether or not one can work; it’s Who has power to make his or her acts
         legitimate? That is all. In his country that power is invested in the hands of <set group="european" type="race">white people</set>,
         and it makes their acts legitimate.
@@ -100,10 +100,10 @@
     
     <p> We are now engaged in a psychological struggle
         in this country about whether or not <set group="black" type="race">black people</set> have the right to use the words they want
-        to use without <set group="european" type="race">white people</set> giving their sanction. We maintain the use of the words Black
-        Power — let them address themselves to that. We are not going to wait for <set group="european" type="race">white people</set> to
+        to use without <set group="european" type="race">white people</set> giving their sanction. We maintain the use of the words <cause cat="self-determination">Black
+            Power</cause> — let them address themselves to that. We are not going to wait for <set group="european" type="race">white people</set> to
         sanction <cause cat="self-determination">Black Power</cause>. We’re tired of waiting; every time <set group="black" type="race">black people</set> try to move in this
-        country, they’re forced to defend their position beforehand. It’s time that <set group="european" type="race">white people</set> do
+        country, they’re <act>forced to defend their position beforehand.</act> It’s time that <set group="european" type="race">white people</set> do
         that. They ought to start defending themselves as to why they have oppressed and exploited
         us. A man was picked as a slave for one reason–the color of his skin. <set group="black" type="race">Black</set> was
         automatically inferior, inhuman,. And therefore fit for slavery, so the question of whether
@@ -391,7 +391,7 @@
     </p>
     
     <p> We must wage a psychological battle on the right for
-        <set group="black" type="race">black people</set> to define themselves as they see fit, and organize themselves as they see fit.
+        <set group="black" type="race">black people</set> to <cause>define themselves as they see fit</cause>, and organize themselves as they see fit.
         we don’t know whether the <set group="european" type="race">white community</set> will allow for that organizing, because once they
         do they must also allow for the organizing inside their own community. It doesn’t make a
         difference, though — we’re going to organize our way. The question is how we’re going to
@@ -407,7 +407,7 @@
     </p>
     
     <p> 
-        We are on the move for our liberation. we’re tired of trying to prove things to <set group="european" type="race">white people</set>.
+        <cause>We are on the move for our liberation.</cause> we’re tired of trying to prove things to <set group="european" type="race">white people</set>.
         We are tired of trying to explain to <set group="european" type="race">white people</set> that we’re not going to hurt them.
         We are concerned with getting the things we want, the things we have to have to be able to function. The question
         is, Will <set group="european" type="race">white people</set> <cause>overcome their racism</cause> and allow for that to happen in this
