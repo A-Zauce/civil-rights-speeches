@@ -2,89 +2,89 @@
 <speech title="the_vote_is_the_only_effective_weapon" speaker="joseph_h_jackson" organization="NBC" date="1964-09-19" source="blackpast"> (
     <p>1964 JOSEPH JACKSON, “THE VOTE IS THE ONLY EFFECTIVE WEAPON IN THE CIVIL RIGHTS STRUGGLE"</p>
     
-    <p> As <set>Christians</org> we are a part of our nation and a part of the struggle of America.
+    <p> As <set group="christians" type="religious_group">Christians</set> we are a part of our nation and a part of the struggle of America.
         America was brought into being to satisfy and to answer the human longing for freedom. There
         was the urge in man to be related to other men as men without a modifier or any kind of
         limitation or restriction. There was an awareness of a human kinship deeper than race, more
-        profound than nationality, and more inclusive than any accepted religious creed. In addition
+            profound than nationality, and more inclusive than any accepted religious creed. In addition
         to the quest for a new geographical spot there was a search for a new human relationship, a
         new freedom, and new opportunities. These basic urges inspired the early colonies to brave
         the dangers of a rough and unknown sea, and seek a land in which they could live as free men
         and aspire to the highest possible goals of life without the enslavement of the past or
-        being the victims of the determinism of enforced circumstances. They wanted a chance to
-        explore and to search out the meaning of life for themselves, and an opportunity to worship
-        <person name="god" occupation="god">God<person> according to the dictates of their conscience. 
+        being the victims of the determinism of enforced circumstances. <cause>They wanted a chance to
+            explore and to search out the meaning of life for themselves, and an opportunity to worship</cause>
+        <person name="god" occupation="god">God</person> according to the dictates of their conscience. 
     </p>
     <p> They soon became convinced that there was no such land, no such Utopia, but all they would find would be an opportunity to
-        make such a land and such a country. They were convinced it could be made out of the desires
-        that now possessed their souls and out of the thirst for liberty that dominated their lives.
+        make such a land and such a country. <cause>They were convinced it could be made out of the desires
+            that now possessed their souls and out of the thirst for liberty that dominated their lives.</cause>
     </p>
     <p> America was born in a struggle and as a struggle for freedom, and for the
         opportunity to develop the highest resources of mankind. The Declaration of Independence and
-        the Federal Constitution were the results of our <set>fathers’</org> attempts to put on paper the
+        the Federal Constitution were the results of our <set group="founding_fathers" type="political_faction">fathers’</set> attempts to put on paper the
         ideals that inspired the birth of the nation, and those principles by which and on which the
         nation was erected and sustained. There have been errors, mistakes, and gross sins committed
-        against this <set group="americans" type="nationality">American</set> venture, but this high venture has not been repudiated or negated. The
-        Massachusetts theocracy became oppressive and hostile toward freedom. Some human beings were
+        against this <set group="americans" type="nationality">American</set> venture, <cause>but this high venture has not been repudiated or negated.</cause> <act>The
+            Massachusetts theocracy became oppressive and hostile toward freedom. </act>Some human beings were
         slain in the episode of the great Witch Hunt. Slavery took its toll, denying to thousands
-        the human dignity that <person name="god" occupation="god">God<person> had bestowed upon them; and as a result of the defense of this
-        cruel institution, the nation was divided into two armed camps, and a cruel civil war saw
+        the human dignity that <person name="god" occupation="god">God</person> had bestowed upon them; and as a result of the <act>defense of this
+            cruel institution</act>, the nation was divided into two armed camps, and a <act>cruel civil war</act> saw
         <set group="americans" type="nationality">Americans</set> take the lives of <set group="americans" type="nationality">Americans</set>, and brothers shedding their brothers’ blood. But from
         the dust and dirt of this tragic event the <set group="americans" type="nationality">American</set> ideals sprang up again with new vigor
         and vitality, and continued its upward march on the rough highway of human history. 
     </p>
     <p> This <set group="americans" type="nationality">American</set> venture is powerful but not perfect; ever growing but not grown; and still
         becoming, but is not yet complete. The kind hand of destiny and the benevolent providence of
-        Almighty <person name="god" occupation="god">God<person> have placed the <set group="americans" type="nationality">American</set> <set group="african" type="race">Negro</set> along with other races and nationalities in this
+        Almighty <person name="god" occupation="god">God</person> have placed the <set group="americans" type="nationality">American</set> <set group="african" type="race">Negro</set> along with other races and nationalities in this
         flowing stream of the nation’s life for which we are justly proud. As patriotic <set group="americans" type="nationality">Americans</set> we
-        are devoted to our nation’s cause, and are wedded to its ideals and principles. By precept
+        are <cause>devoted to our nation’s cause</cause>, and are wedded to its ideals and principles. By precept
         and example, by instinct and intuition, we now know the difference between that which is
-        truly <set group="americans" type="nationality">American</set> and that which is not. We draw a clear distinction between that which is
+        truly <set group="americans" type="nationality">American</set> and that which is not. <policy>We draw a clear distinction between that which is
         germane to the nation’s life and that which is foreign, hostile, and antagonistic to the
-        soul of our nation. To the former we pledge our total allegiance and commit every ounce of
+        soul of our nation. </policy>To the former we pledge our total allegiance and commit every ounce of
         energy, our strength, all of our powers, and even our very lives. But against the latter we
         stand with uncompromising determination, and will not rest until all the enemies of our
         nation have been subdued and conquered. This is the true meaning of the civil rights
         struggle. 
     </p>
     <p> Much time and space is given in the public press to the problem of civil
-        rights. It has engaged the minds of our congressmen, and has occasioned many days of debate
-        and deliberation. In the name of civil rights thousands have marched through the streets of
-        our cities, boycotts have been staged, picket lines have been thrown around places of
-        businesses, institutions of learning; and in every nook and corner of the country voices
-        have been heard in the defense of and in the interest of civil rights. 
+        rights. It has engaged the minds of our congressmen, and has occasioned <act>many days of debate
+            and deliberation.</act> In the name of civil rights thousands have <act>marched through the streets of
+        our cities</act>, <act>boycotts have been staged</act>, <act>picket lines have been thrown around places of
+        businesses, institutions of learning; and in every nook and corner of the country voices</act>
+        have been heard in the <cause>defense of and in the interest of civil rights</cause>. 
     </p>
-    <p> What is this struggle for civil rights? I answer, it is an effort of <set group="americans" type="nationality">American</set> citizens to get full
-        equality of opportunity. It is the resolution and the determination that there shall be in
+    <p> What is this struggle for civil rights? I answer, it is an effort of <set group="americans" type="nationality">American</set> citizens to get <cause>full
+        equality of opportunity</cause>. It is the resolution and the determination that there shall be in
         these United States one class of citizens and that is first class citizens. This is a
         struggle to adopt in practice as well as theory the concept of man on which the Declaration
         of Independence is based, and to fully implement the Federal Constitution, one of the
         greatest documents for human freedom since the writing of the Magna Carta. The civil rights
-        struggle is a struggle for full freedom, justice, and equality before the law. It is a
-        struggle to bring from paper the lofty ideals of America, and to apply them in practice to
+        struggle is a struggle for full freedom, justice, and equality before the law. <cause>It is a
+        struggle to bring from paper the lofty ideals of America</cause>, and to apply them in practice to
         the lives and actions of all <set group="americans" type="nationality">Americans</set>. In reality it is America’s struggle to be herself,
         to fulfill the highest promises of her being, and to build a social order after the pattern
         and dreams of our founding fathers and in the light of the wisdom of the ages. 
     </p>
     <p> The civil rights struggle then is not a struggle to negate the high and lofty philosophy of
-        <set group="americans" type="nationality">American</set> freedom. It is not an attempt to convert the nation into an armed camp or to
-        substitute panic and anarchy in the place of law and order. It is in no wise an attempt to
+        <set group="americans" type="nationality">American</set> <cause>freedom</cause>. It is not an attempt to convert the nation into an armed camp or to
+        substitute panic and anarchy in the place of law and order. <act>It is in no wise an attempt to
         negate or to amend downward the highest laws of this land proclaiming freedom and justice
-        for all. 
+        for all. </act>
         </p>
     <p> The answer is there is a group in the United States that believes that when
         the constitution speaks of the rights of <set group="americans" type="nationality">American</set> citizens it meant only men whose skins
         were white. This group believes in segregation as a means of protecting the best interests
         of the nation and of keeping the races separate and pure. But as we look at the degrees of
-        pigmentation among all the races in these United States, I ask my <set group="segregationist" type="pol_faction">segregationist</set> friends,
+        pigmentation among all the races in these United States, I ask my <set group="segregationist" type="political_faction">segregationist</set> friends,
         don’t you think it is rather late now to talk about the purity of the race; for the blood of
-        white <set group="segregationist" type="pol_faction">segregationist</set>s is in the veins of many whom they would ostracize, and their kinship
-        is a biological fact. Many <set group="segregationist" type="pol_faction">segregationist</set>s fear that granting equality of opportunity to
+        white <set group="segregationist" type="political_faction">segregationist</set>s is in the veins of many whom they would ostracize, and their kinship
+        is a biological fact. Many <set group="segregationist" type="political_faction">segregationist</set>s fear that granting equality of opportunity to
         people of color will in some way jeopardize their liberties, encroach upon their freedom,
         and threaten their rank, position, and security. But such fear is unfounded if the doctrine
         of <set group="americans" type="nationality">American</set> democracy is true. For no free man has any grounds to fear the spread of the
         privileges of true freedom to all men, for the greater the number of free men the more
-        secure is freedom and less is the power and danger of oppression. <person name="abe_lincoln" occupation="politician">Abraham Lincoln<person> sensed
+        secure is freedom and less is the power and danger of oppression. <person name="abe_lincoln" occupation="politician">Abraham Lincoln</person> sensed
         this fact when he said: “By giving freedom to the slaves we insure freedom to the free.” The
         presence of one bound man pollutes the whole stream of human society; and the rattle of one
         chain of oppression creates a discord that breaks the harmony in every democratic system,
@@ -95,9 +95,9 @@
         </p>
     <p> This struggle for civil rights has remained for a hundred years because there are persons among us who are still the victims of the psychology
         of chattel slavery and are yet blinded to the verdict of history and indifferent to the
-        logic of life, and in deep rebellion against the voice of <person name="god" occupation="god">God<person>. Some believe that their very
+        logic of life, and in deep rebellion against the voice of <person name="god" occupation="god">God</person>. Some believe that their very
         future and the future well-being of their families depend on keeping alive the cursed demon
-        of segregation. In the language of one <set group="segregationist" type="pol_faction">segregationist</set>: “Yes, we believe in segregation, and
+        of segregation. In the language of one <set group="segregationist" type="political_faction">segregationist</set>: “Yes, we believe in segregation, and
         we will not be changed. We will not be frightened or forced. We will oppose you with every
         ounce of strength that we have. We will fight you from breakfast until noon. We will eat our
         noon-day meal and then re-turn to the field of battle and fight you until sunset. If
@@ -113,7 +113,7 @@
         of statesmen, and have followed the logic of every philosopher of freedom, and they now know
         that segregation and racial discrimination have no logical or legitimate place in the
         <set group="americans" type="nationality">American</set> character and constitution. The segregated is just as determined to destroy the
-        awful demand of racial segregation as <set group="segregationist" type="pol_faction">segregationist</set>s are to keep it alive. 
+        awful demand of racial segregation as <set group="segregationist" type="political_faction">segregationist</set>s are to keep it alive. 
         </p>
     <p> This struggle will continue because of the inner nature of the segregated themselves. There has
         been implanted in the hearts and minds of all men the hope, the love, and expectation of
@@ -121,7 +121,7 @@
         we cannot rest in chains or be at peace in a house of bondage, or compromise with the
         dungeons of discrimination and accept as our lot the cruel and oppressive hand of those
         heartless masters who allow pigmentation of skin to blind them to the inner principles of
-        truth and to the revealed purposes of <person name="god" occupation="god">God<person>. The struggle goes on because two determinations
+        truth and to the revealed purposes of <person name="god" occupation="god">God</person>. The struggle goes on because two determinations
         meet: one; to enslave, and the other; to be free, and here can be no compromise, and from
         the task of solving the problem of freedom there must be no retreat. 
         </p>
@@ -174,10 +174,10 @@
         protection of the nation, the promotion of freedom, the promotion of every citizen, and for
         the glory of the United States of America. What I said in 1956 I still say now. 
         </p>
-    <p> 4. <set group="Afro-<set group="americans" type="nationality">American</set>" type="race">Negroes</org> must still make their own leaders. We must not expect the public press, radio, and
+    <p> 4. <set group="Afro" type="race">Negroes</set> must still make their own leaders. We must not expect the public press, radio, and
         television to do this job for us. These news media are too busy with other responsibilities
-        to be assigned the task of choosing <set group="Afro-<set group="americans" type="nationality">American</set>" type="race">Negro</org> leaders to represent the race in these days of
-        stress and strain. <set group="Afro-<set group="americans" type="nationality">American</set>" type="race">Negroes</org> must not forget that we have many fields in which leaders are
+        to be assigned the task of choosing <set group="Afro"  type="race">Negro</set> leaders to represent the race in these days of
+        stress and strain. <set group="Afro" type="race">Negroes</set> must not forget that we have many fields in which leaders are
         necessary and important, and we should accept and follow the leaders in their respective
         field; that is, when they are right. We have political leaders, many of whom are worthy of
         our confidence and our respect. We shall follow them and show our appreciation for them. We
@@ -189,7 +189,7 @@
     <p> We have worthy business leaders who can show us the way to improve our economic status, and to
         develop our available economic resources. Let us follow them. We have educators who are
         making their contribution in the field of thought and of mental growth. Let us honor them
-        and respect them, and let us not discourage <set group="Afro-<set group="americans" type="nationality">American</set>" type="race">Negro</org> educators by advocating directly or
+        and respect them, and let us not discourage <set group="black" type="race">Negro</set> educators by advocating directly or
         indirectly, that they are by nature inferior to educators in other racial groups. 
         </p>
     <p> We have athletes and comedians. Let us still applaud our athletes when they achieve on the
@@ -198,7 +198,7 @@
         dictatorship of any one field, and athletes and comedians must not make the mistake of
         assuming the role of political, religious, and cultural leaders. We as a race must see to it
         that each man serves in his field, and we must not allow the white community to pick our
-        leaders or to tell us what <set group="Afro-<set group="americans" type="nationality">American</set>" type="race">Negro</org> we should follow. 
+        leaders or to tell us what <set group="blacks" type="race">Negro</set> we should follow. 
     </p>
     <p> 5. Let us be courageous enough not only to oppose the wrong and the un-<set group="americans" type="nationality">American</set> actions in our nation, but we must also
         appreciate and rejoice in the achievements of our nation. There are some recent achievements
@@ -244,7 +244,7 @@
         tend to make more difficult the mental, moral, and spiritual changes essential to new growth
         and creativity in human relations. Remember that when we seek to change certain acquired
         notions and habits of men we are seeking to change that which is very vital in human nature.
-        When we labor to change <set group="segregationist" type="pol_faction">segregationist</set>s and racists who believe they are right, we are
+        When we labor to change <set group="segregationist" type="political_faction">segregationist</set>s and racists who believe they are right, we are
         facing the task of re-conditioning human emotions and building within, new patterns of
         thought, and changing human nature itself. In addition to that type of direct action which
         is negative and aimed at the correction of others, we need the type of direct action also
@@ -256,14 +256,14 @@
     <p> Why should we expect direct actions against others to bear immediate fruit, and then procrastinate and postpone the direct
         actions that will make us better business men, better statesmen, better thinkers, and better
         men and women with better homes and better fellowship NOW? Now must not only be applied to
-        the needs for changes and attitudes of <set group="segregationist" type="pol_faction">segregationist</set>s, it must also be applied to us as as
+        the needs for changes and attitudes of <set group="segregationist" type="political_faction">segregationist</set>s, it must also be applied to us as as
         people and as a race when we aspire for the best and seek the more constructive and creative
         methods of life. We can be better now. We can acquire a better education now, we can
         organize our capital now and receive our share in this economy of free enterprise now. In
         spite of all that we have attained as a people we have not exhausted our possibilities, and
         the past does not define the limits of our potential. Are we not as well equipped to respond
         to the call of the right, the just, the good, the highest, and the best as are the white
-        <set group="segregationist" type="pol_faction">segregationist</set>s against whom we fight? Has not the great <person name="god" occupation="god">God<person> put in our souls the thirst for
+        <set group="segregationist" type="political_faction">segregationist</set>s against whom we fight? Has not the great <person name="god" occupation="god">God</person> put in our souls the thirst for
         truth and righteousness? Are we not endowed as co-workers with the great creative spirit of
         the universe? Then we need not wait until all is well before we harness our resources and
         venture upon new ways of life and creativity. 
