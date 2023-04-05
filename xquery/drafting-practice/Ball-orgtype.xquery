@@ -5,7 +5,7 @@ declare variable $speech :=//speech;
 declare variable $orgs :=$speech//org/data(@group)=>distinct-values();
 declare variable $xspacer := 10;
 declare variable $yspacer := 25;
-(: attempt to make a bar graph of all org mentions from each speaker:)
+(: attempt to make a bar graph of the types of orgs that each speaker makes mention of:)
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
         <g transform="translate(150,100)"> 
         <g>
