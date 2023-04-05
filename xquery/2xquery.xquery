@@ -6,7 +6,7 @@ declare variable $tab := "&#9;";
 
 let $subCats:=//speech//act/data(@subcat)=>distinct-values()
 for $subCat in $subCats
-let $subcat-count := //speech//act/data(@subcat) =>count()
+let $subcat-count := //speech//act[data(@subcat)=$subCat] =>count()
 (: this is to list the subcategories within the speech :)
 order by $subCat (:    this lists the subcats in alphabetical order :)
 count $pos
