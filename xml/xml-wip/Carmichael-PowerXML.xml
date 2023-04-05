@@ -108,9 +108,9 @@
         us. A man was picked as a slave for one reason–the color of his skin. <set group="black" type="race">Black</set> was
         automatically inferior, inhuman,. And therefore fit for slavery, so the question of whether
         or not we are individually suppressed is nonsensical, and it’s a downright lie. We are
-        oppressed as a group because we are black, not because we are lazy or apathetic, not because
+        oppressed as a group because we are <set group="black" type="race">black</set>, not because we are lazy or apathetic, not because
         we’re stupid or we stink, not because we eat watermelon or have good rhythm. We are
-        oppressed because we are black. 
+        oppressed because we are <set group="black" type="race">black</set>. 
     </p>
     <p> In order to escape that oppression we must wield the
         group power we have, not the individual power that this country sets as the criterion under
@@ -127,7 +127,7 @@
         the <set group="black" type="race">black people</set> who will never get to <org group="uc_berkeley" type="education">Berkeley</org>, never get to <org group="harvard" type="education">Harvard</org>, and cannot get an
         education, the ones you’ll never get a chance to rub shoulders with and say, “Why, he’s
         almost as good as we are; he’s not like the others”? The question is, How can white society
-        begin to move to see <set group="black" type="race">black people</set> as human beings? I am black, therefore I am. Not I am
+        begin to move to see <set group="black" type="race">black people</set> as human beings? I am <set group="black" type="race">black</set>, therefore I am. Not I am
         black and I must go to college to prove myself. I am black, therefore I am. And don’t
         deprive me of anything and say to me that you must go to college before you gain access to
         X, Y, and Z. That’s only a rationalization for suppression. </p>
