@@ -88,7 +88,7 @@ body{
 	height: 100%; 
 	background-position: center;
 	background-repeat: repeat;
-	background-size: cover;
+	/* background-size: cover; */
 }
 
 .row {  
