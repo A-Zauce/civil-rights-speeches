@@ -27,8 +27,8 @@
     </p>
     <p> In a much larger view, <org group="sncc" type="cr_org">SNCC</org> says that <set group="european" type="race">white
         America</set> cannot condemn herself for her criminal acts against <set group="black" type="race">black America</set>. So
-        <set group="black" type="race">black people</set> have done it–you stand condemned. The institutions that function in this
-        country are clearly racist; they’re built upon racism. The questions to be dealt with then
+        <set group="black" type="race">black people</set> have done it–you stand condemned. <policy cat="critical_race_theory">The institutions that function in this
+            country are clearly racist; they’re built upon racism.</policy> The questions to be dealt with then
         are: how can <set group="black" type="race">black people</set> inside this country move? How can <set group="european" type="race">white people</set> who say they’re not
         part of those institutions begin to move? And how then do we begin to clear away the
         obstacles that we have in this society, to make us live like human beings?
@@ -41,7 +41,7 @@
         sitting next to <set group="european" type="race">white people</set>. That does not begin to solve the problem. We didn’t go to
         Mississippi to sit next to <person name="ross_barnett" occupation="politician">Ross Barnett</person> (former governor of Mississippi), we did not go to
             sit next to <person  name="james_clark" occupation="police_officer">Jim Clark</person> (sheriff of Selma, Alabama), we went to get them out of our
-            way. People ought to understand that; we were <cause cat="pro-integratation">never fighting for the right to integrate</cause>, <cause cat="anti-white_supremacy">we
+            way. People ought to understand that; we were never fighting for the right to integrate, <cause cat="anti-white_supremacy">we
             were fighting against white supremacy</cause>. In order to understand white supremacy, we must
         dismiss the fallacious notion that <set group="european" type="race">white people</set> can give anybody his freedom. A man is born
         free. You may enslave a man after he is born free, and that is in fact what this country
@@ -49,10 +49,10 @@
         denying <set group="black" type="race">black people</set> their freedom. </p>
     
     <p> I maintain that every civil rights bill in this country was passed for <set group="european" type="race">white people</set>, not for <set group="black" type="race">black people</set>.
-        For example, I am black. I know that. I also know that while I am black I am a human being.
+        For example, I am  <set group="black" type="race">black</set>. I know that. I also know that while I am  <set group="black" type="race">black</set> I am a human being.
         Therefore I have the right to go into any public place. <set group="european" type="race">White people</set> don’t know that. Every time I tried to go into a public
         place they stopped me. So some boys had to write a bill to tell that <set group="european" type="race">white man</set>, “He’s a
-        human being; don’t stop him.” That bill was for the <set group="european" type="race">white man</set>, not for me. I knew <act cat="non-violence" subcat="voting">I could
+        human being; don’t stop him.” That bill was for the <set group="european" type="race">white man</set>, not for me. I knew <act cat="non-violence" subcat="vote">I could
             vote all the time and that it wasn’t a privilege but my right.</act> Every time I tried I was
         shot, killed or jailed, beaten or economically deprived. So somebody had to write a bill to
         tell <set group="european" type="race">white people</set>, “When a <set group="black" type="race">black man</set> comes to vote, don’t bother him.” That bill was for
@@ -65,9 +65,9 @@
             people</set> move? And what do we do? But the question in a much greater sense is, How can <set group="european" type="race">white
             people</set> who are the majority, and who are responsible for making democracy work, make it
         work? They have never made democracy work, be it inside the United States, Vietnam, South
-        Africa, the Philippines, South America, Puerto Rico, or wherever America has been.<cause> We not
+        Africa, the Philippines, South America, Puerto Rico, or wherever America has been.<act cat="non-violence" subcat="anti-war"> We not
         only condemn the country for what it has done internally, but we must condemn it for what it
-        does externally. </cause>We see this country trying to rule the world, and someone must stand up and
+        does externally. </act>We see this country trying to rule the world, and someone must stand up and
         start articulating that this country is not <person name="god" occupation="god">God</person>, and that it cannot rule the world. </p>
     
     <p>
@@ -88,7 +88,7 @@
         see, because now we have “modern-day missionaries,” and they come into our ghettos–they Head
         Start, Upward Lift, Bootstrap, and Upward Bound us into white society. They don’t want to
         face the real problem. A man is poor for one reason and one reason only–he does not have
-        money. <policy>If you want to get rid of poverty, you give people money.</policy> And you ought not tell me
+        money. <policy cat="welfare">If you want to get rid of poverty, you give people money.</policy> And you ought not tell me
         about people who don’t work, and that you can’t give people money if they don’t work,
         because if that were true, you’d have to start stopping <person name="nelson_rockefeller" occupation="politician">Rockefeller</person>, <person name="bobby_kennedy" occupation="politician">Kennedy</person>, <person name="LBJ" occuaption="politician">Lyndon Baines
             Johnson</person>, <person name="lady_bird_johnson" occupation="wife">Lady Bird Johnson</person>, the whole of <org group="standard_oil" type="company">Standard Oil</org>, the  <org group="gulf_corp" type="company">Gulf Corporation </org>, all of them,
@@ -103,7 +103,7 @@
         to use without <set group="european" type="race">white people</set> giving their sanction. We maintain the use of the words <cause cat="self-determination">Black
             Power</cause> — let them address themselves to that. We are not going to wait for <set group="european" type="race">white people</set> to
         sanction <cause cat="self-determination">Black Power</cause>. We’re tired of waiting; every time <set group="black" type="race">black people</set> try to move in this
-        country, they’re <act>forced to defend their position beforehand.</act> It’s time that <set group="european" type="race">white people</set> do
+        country, they’re <act cat="self-defense" subcat="status_movement">forced to defend their position beforehand.</act> It’s time that <set group="european" type="race">white people</set> do
         that. They ought to start defending themselves as to why they have oppressed and exploited
         us. A man was picked as a slave for one reason–the color of his skin. <set group="black" type="race">Black</set> was
         automatically inferior, inhuman,. And therefore fit for slavery, so the question of whether
@@ -112,8 +112,8 @@
         we’re stupid or we stink, not because we eat watermelon or have good rhythm. We are
         oppressed because we are <set group="black" type="race">black</set>. 
     </p>
-    <p> In order to escape that oppression we must wield the
-        group power we have, not the individual power that this country sets as the criterion under
+    <p> <cause cat="self-determination">In order to escape that oppression we must wield the
+        group power we have,</cause> not the individual power that this country sets as the criterion under
         which a man may come into it. That’s what is called integration. “You do what I tell you to
         do and we’ll let you sit at the table with us.” Well, if you believe in integration, you can
         come live in Watts, send your children to the ghetto schools. Let’s talk about that. If you
@@ -122,7 +122,7 @@
     
     <p> So it is clear that this question is not one off integration or
         segregation. We cannot afford to be concerned about the 6 percent <set group="black" type="race">black children</set> in this
-        country whom you allow to enter white schools. <policy>We are going to be concerned about the 94
+        country whom you allow to enter white schools. <policy cat="concern_for_poor">We are going to be concerned about the 94
             percent. You ought to be concerned about them too.</policy> But are we willing to be concerned about
         the <set group="black" type="race">black people</set> who will never get to <org group="uc_berkeley" type="education">Berkeley</org>, never get to <org group="harvard" type="education">Harvard</org>, and cannot get an
         education, the ones you’ll never get a chance to rub shoulders with and say, “Why, he’s
@@ -132,13 +132,13 @@
         deprive me of anything and say to me that you must go to college before you gain access to
         X, Y, and Z. That’s only a rationalization for suppression. </p>
     
-    <p> The political parties of this country do not meet the needs of the people on a day-to-day basis. How can we build new
-        political institutions that will become the political expressions of people? How can you
+    <p> The political parties of this country do not meet the needs of the people on a day-to-day basis.<cause cat="self-determination"> How can we build new
+        political institutions that will become the political expressions of people?</cause> How can you
         build political institutions that will begin to meet the needs of Oakland, California? The
         need of Oakland, California, is not 1,000 <set group="police" type="law_enforcement">policemen</set> with submachine guns. They need that
-        least of all. How can we build institutions that will allow those people to function on a
+        least of all. How can we build institutions that will <cause cat="representation">allow those people to function on a
         day-to-day basis, so that they can get decent jobs and have decent houses, and they can
-        begin to participate in the policy and make the decisions that affect their lives? That’s
+        begin to participate in the policy and make the decisions that affect their lives?</cause> That’s
         what they need, not <set group="nazi" type="political_party">Gestapo troops</set>, because this is no 1942, and if you play like <set group="nazi" type="political_party">Nazis</set>,
         we’re not going to play <set group="jews" type="religious_group">Jew</set> this time around. </p>
     
@@ -146,7 +146,7 @@
         who live in Cicero and stopped us from living there. <set group="european" type="race">White people</set> stopped us from moving
         into Grenada, Miss. <set group="european" type="race">White people</set> make sure that we live in the ghettos of this country.
         <set group="european" type="race">White </set>institutions do that. They must change. In order for America to really live on a basic
-        principle of human relationships, a new society must be born.<cause> Racism must die.</cause> <cause>The economic
+        principle of human relationships, a new society must be born.<cause cat="anti-racism"> Racism must die.</cause> <cause cat="equity">The economic
         exploitation by this country</cause> of non-<set group="european" type="race">white people</set> around the world must also die. </p>
     <p>
         There are several programs in the South where whites are trying to organize poor whites so
@@ -171,17 +171,17 @@
         for the last hundreds of years? </p>
     
     <p> <person name="frederick_douglass" occupation="writer">Frederick Douglass</person> said that the youth should fight to be leaders today. <person name="god" occupation="god">God</person> knows we need to be leaders today, because the men who run this
-        country are sick. We must begin to start building those institutions and to fight to
+        country are sick. <cause cat="self-determination">We must begin to start building those institutions and to fight to
         articulate our position, to fight to be able to control our universities (we need to be able
         to do that), to fight to control the basic institutions that perpetuate racism by destroying
-        them and building new ones. That’s the real question that faces us today, and it is a
+        them and building new ones.</cause> That’s the real question that faces us today, and it is a
         dilemma because most of us don’t know how to work.
     </p>
     <p> Most white activists run into the <set group="black" type="race">black community</set> as an excuse. We cannot have <set group="european" type="race">white people</set> working in the <set group="black" type="race">black community</set> —
         on psychological grounds. The fact is that all <set group="black" type="race">black people</set> question whether or not they are
         equal to whites, since every time they start to do something, <set group="european" type="race">white people</set> are around
-        showing them how to do it. If we are going to eliminate that for the generation that comes
-        after us, then <set group="black" type="race">black people</set> must be in positions of power, doing and articulating for
+        showing them how to do it. <cause cat="confidence"> we are going to eliminate that for the generation that comes
+            after us, </cause>then <set group="black" type="race">black people</set> <act cat="non-violence" subcat="self-determination">must be in positions of power,</act> doing and articulating for
         themselves. That’s not reverse racism; it is moving onto healthy ground; it is becoming what
         the philosopher <person name="jean-paul_sartre" occupation="philosopher">Sartre</person> says, an “antiracist racist.” And this country can’t understand that.
         If everybody who’s white sees himself as racist and sees us against him, he’s speaking from
@@ -190,16 +190,16 @@
     <p> 
         We do not have the power in our hands to change the institution of
         war in this country–to begin to recreate it so that they can learn to leave the <set group="vietnamese" type="ethnicity">Vietnamese
-            people</set> alone. The only power we have is the power to say, <act>“Hell, no!” to the draft</act>. 
+            people</set> alone. The only power we have is the power to say, <act cat="active-resistance" subcat="draft_dodge">“Hell, no!” to the draft</act>. 
     </p>
     <p>
-        The war in Vietnam is illegal and immoral. The question is, <cause>What can we do to stop that war?</cause>
+        The war in Vietnam is illegal and immoral. The question is, <cause cat="anti-war">What can we do to stop that war?</cause>
         What can we do to stop the people who, in the name of America, are killing babies, women,
         and children? We have to say to ourselves that there’s a higher law than the law of a fool
         named <person name="dean_rusk" occupation="diplomat">Rusk</person>; there’s a higher law than the law of a buffoon named <person name="LBJ" occupation="politician">Johnson</person>. It’s the law of
-        each of us. We will not murder anybody who they say kill, and if we decide to kill, ‘were’
-        going to decide who it shall be. This country will only stop the war in Vietnam when the
-        young men who are made to fight it begin to say, <policy>“Hell, no, we aren’t going.”</policy> </p>
+        each of us. <policy cat="non-cooperation">We will not murder anybody who they say kill, and if we decide to kill, ‘were’
+            going to decide who it shall be.</policy> This country will only stop the war in Vietnam when the
+        young men who are made to fight it begin to say, <policy cat="non-cooperation">“Hell, no, we aren’t going.”</policy> </p>
     
     <p> The peace movement has been a failure because it hasn’t gotten off the college campuses where
         everybody has a 2S and is not afraid of being drafted anyway. The problem is how you can
@@ -211,8 +211,8 @@
     </p>
     <p> 
         There isn’t one organization that
-        has begun to meet our stand on the war in Vietnam. We not only say we are <cause>against the war in
-            Vietnam</cause>; <policy>we are against the draft.</policy> No man has the right to take a man for two years and
+        has begun to meet our stand on the war in Vietnam. We not only say we are <cause cat="anti-war">against the war in
+            Vietnam</cause>; <policy cat="anti-draft">we are against the draft.</policy> No man has the right to take a man for two years and
         train him to be a killer. Any <set group="black" type="race">black man</set> fighting in the war in Vietnam is nothing but a
         <set group="black" type="race">black mercenary</set>. Any time a <set group="black" type="race">black man</set> leaves the country where he can’t vote to supposedly
         deliver the vote to somebody else, he’s a <set group="black" type="race">black mercenary</set>. Any time a <set group="black" type="race">black man</set> leaves this
@@ -221,12 +221,12 @@
     </p>
     <p> 
         Even if I believed the lies of <person name="LBJ" occupation="politician">Johnson</person>, that we’re fighting to give democracy to the people of
-        Vietnam, as a <set group="black" type="race">black man</set> living in this country I wouldn’t fight to give this to anybody. We
+        Vietnam, as a <set group="black" type="race">black man</set> living in this country <policy cat="anti-war">I wouldn’t fight to give this to anybody. </policy>We
         have to use our bodies and our minds in the only way that we see fit. We must begin, as the
         philosopher <person name="albert_camus" occupation="philosopher">Camus </person> says, to come alive by saying “no.” This country is a nation of thieves.
             It stole everything it has, beginning with <set group="black" type="race">black people</set>. The U.S. cannot justify its
         existence as the policeman of the world any longer. The marines are at ready disposal to
-            <cause> bring democracy</cause>, and if the <set>Vietnamese</set> don’t want democracy, well then, “We’ll just wipe
+            bring democracy, and if the <set>Vietnamese</set> don’t want democracy, well then, “We’ll just wipe
         them out, because they don’t deserve to live if they won’t have our way of life.” 
     </p>
     <p>
@@ -263,7 +263,7 @@
         with our lives. You can’t move morally against men like <person name="edmund_brown?" occupation="politician">Brown</person> and <person name="ronald_reagan" occupation="politician">Reagan</person>. You can’t move
         morally against <person name="LBJ" occuaption="politician">Lyndon Baines Johnson</person> because he is an immoral man. He doesn’t know what
         it’s all about. So you’ve got to move politically. We have to develop a political
-        sophistication that doesn’t parrot (“The <policy>two-party system</policy> is the best system in the world”).
+        sophistication that doesn’t parrot (“The two-party system is the best system in the world”).
         We have to raise questions about whether we need new types of political institutions in this
         country, and we in <org group="sncc" type="cr_org">SNCC</org> maintain that we need them now. Any time <person name="LBJ" occuaption="politician">Lyndon Baines Johnson</person> can
             head a party that has in it <person name="bobby_kennedy" occupation="politician">Bobby Kennedy</person>, <person name="wayne_morse" occupation="politician">Wayne Morse</person>, <person name="james_eastland" occupation="politician">Eastland</person>, <person name="william_wallace">Wallace</person>, and all those
@@ -274,13 +274,13 @@
     </p>
     
     <p>
-        We must question the values of this society, and I maintain that <set group="black" type="race">black people</set> are the best
+        <act cat="non-violence" subcat="questioning">We must question the values of this society</act>, and I maintain that <set group="black" type="race">black people</set> are the best
         people to do that since we have been excluded from that society. we ought to think whether
         or not we want to become a part of that society. That’s precisely what the <org group="sncc" type="cr_group">Student
             Nonviolent Coordinating Committee</org> is doing. We are raising questions about this country. I
-        do not want to be a part of the American pie. <policy>The American pie means raping South Africa,
+        do not want to be a part of the American pie. The American pie means raping South Africa,
         beating Vietnam, beating South America, raping the Philippines, raping every country you’ve
-        been in.</policy> I don’t want any of your blood money. I don’t want to be part of that system. We
+        been in. I don’t want any of your blood money. I don’t want to be part of that system. We
         are the generation who has found this country to be a world power and the wealthiest country
         in the world. We must question whether or not we want this country to continue being the
         wealthiest country in the world at the price of raping everybody else. And because <set group="black" type="race">black
@@ -302,34 +302,34 @@
     </p>
     <p> The youth of this country must being to raise those questions. We are
         going to have to change the foreign policy of this country. One of the problems with the
-        <cause>peace movement</cause> is that it is too caught up in Vietnam, and if America <act>pulled out the troops</act>
-        from Vietnam this week, next week you’d have to get another <cause>peace movement</cause> for Santo
+        <cause cat="anti-war">peace movement</cause> is that it is too caught up in Vietnam, and if America pulled out the troops
+        from Vietnam this week, next week you’d have to get another <cause cat="anti-war">peace movement</cause> for Santo
         Domingo. We have to hook up with <set group="black" type="race">black people</set> around the world; and that hookup must not
-        only be psychological, but real. If South America were to <act>rebel </act>today, and <set group="black" type="race">black people</set> were
-        to <act>shoot the hell out of</act> all the <set group="european" type="race">white people</set> there, as they should, <org group="standard_oil" type="company">Standard Oil</org> would
+        only be psychological, but real. If South America were to rebel today, and <set group="black" type="race">black people</set> were
+        to <act cat="active_resistance" subcat="shoot">shoot the hell out of</act> all the <set group="european" type="race">white people</set> there, as they should, <org group="standard_oil" type="company">Standard Oil</org> would
         crumble tomorrow. If South Africa were to go today, <org group="chase_manhattan" type="company">Chase Manhattan Bank</org> would crumble
         tomorrow. If Zimbabwe, which is called Rhodesia by <set group="european" type="race">white people</set>, were to go tomorrow,
         <org group="general_electric" type="company">General Electric</org> would cave in on the East Coast.
     </p>
     <p> 
-        How do we stop those institutions
-        that are so willing to <policy>fight against “Communist aggression”</policy> but close <act>their eyes against
-            racist oppression?</act> We’re not talking about a <policy>policy of aid or sending</policy> <org group="peace_corps" type="foreign_aid_agency">Peace Corps</org> people in
+        How do we <cause cat="anti-war">stop those institutions
+            that are so willing to fight against “Communist aggression”</cause> but close their eyes against
+            racist oppression? We’re not talking about a policy of aid or sending <org group="peace_corps" type="foreign_aid_agency">Peace Corps</org> people in
         to teach people how to read and write and build houses while we steal their raw materials
-        from them. Because that’s all this country does. What <act>underdeveloped countries need is
+        from them. Because that’s all this country does. What <act cat="non-violent" subcat="education">underdeveloped countries need is
             information about how to become industrialized</act>, so they can keep their raw materials where
         they have them, produce goods, sell them to this country for the price it’s supposed to pay.
-        instead, <act>America keeps selling goods back to them for a profit and keeps sending our modern
-            day missionaries there</act>, calling them the <org group="peace_corps" type="foreign_aid_agency">sons of Kennedy</org>. And if the youth are going to
+        instead, America keeps selling goods back to them for a profit and keeps sending our modern
+            day missionaries there, calling them the <org group="peace_corps" type="foreign_aid_agency">sons of Kennedy</org>. And if the youth are going to
         participate in that program, how do you begin to control the <org group="peace_corps" type="foreign_aid_agency">Peace Corps</org>. 
     </p>
     
-    <p> This country assumes that if someone is <policy>poor, they are poor because of their own individual
-        blight</policy>, or because they weren’t born on the right side of town, or they had too many
-        children, or went in the <org>army</org> too early, or because their father was a drunk, or they didn’t
+    <p> This country assumes that if someone ispoor, they are poor because of their own individual
+        blight, or because they weren’t born on the right side of town, or they had too many
+        children, or went in the <org group="us_military" type="government">army</org> too early, or because their father was a drunk, or they didn’t
         care about school–they made a mistake. That’s a lot of nonsense. Poverty is well calculated
-        in this country, and <policy>the reason why the poverty program won’t work is because the
-            calculators of poverty are administering it</policy>. 
+        in this country, and the reason why the poverty program won’t work is because the
+            calculators of poverty are administering it. 
     </p>
     
     <p> How can you, as the youth in this country, move to start carrying those things out? Move into the <set group="european" type="race">white community</set>.
@@ -340,9 +340,9 @@
         what <cause cat="self-determination">Black Power</cause> is because it deprived <set group="black" type="race">black people</set> of it for over four hundred years.
        <set group="european" type="race">White people</set> associate <cause cat="self-determination">Black Power</cause> with violence because of their own inability to deal with
         blackness. If we had said <cause cat="self-determination">“Negro power”</cause> nobody would get scared. Everybody would support it.
-        If we said power for colored people, everybody’d be for that, but it is the word “black”
+        If we said power for colored people, everybody’d be for that, but it is the word <set group="black" type="race">“black”</set>
         that bothers people in this country, and that’s their problem, not mine. That’s the lie that
-        says anything black is bad. 
+        says anything <set group="black" type="race">black</set> is bad. 
     </p>
     
     <p> You’re all a college and university crowd. You’ve taken your basic logic course. You know about major premise, minor premise. People have been
@@ -361,8 +361,8 @@
         good. Anything all black is not necessarily bad. Anything all black is only bad when you use
         force to keep whites out. Now that’s what <set group="european" type="race">white people</set> have done in this country, and
         they’re projecting their same fears and guilt on us, and we won’t have it. Let them handle
-        their own affairs and their own guilt. Let them find their own psychologists. We refuse to
-        be the therapy for white society any longer. We have gone stark, raving mad trying to do it.
+        their own affairs and their own guilt. Let them find their own psychologists. <act cat="non-violent" subcat="non-cooperative">We refuse to
+            be the therapy for white society any longer. </act>We have gone stark, raving mad trying to do it.
     </p>
     
     <p> I look at <person name="MLK" occupation="minister">Dr. King</person> on television every single day, and I say to myself:
@@ -373,9 +373,9 @@
     </p>
     
     <p> If we were to be real and honest, we would have to admit that most people in
-        this country see things <set  group="black" type="race">black</set> and <set group="european" type="race">white</set>. We live in a country that’s geared that way. White
+        this country see things <set  group="black" type="race">black</set> and <set group="european" type="race">white</set>. We live in a country that’s geared that way. <set group="european" type="race">White</set>
         people would have to admit that they are afraid to go into a black ghetto at night. They’re
-        afraid because they’d be <pol>“beat up,” “lynched,” “looted,” “cut up,” etc.</pol> It happens to black
+        afraid because they’d be “beat up,” “lynched,” “looted,” “cut up,” etc. It happens to black
         people inside the ghetto every day, incidentally. Since <set group="european" type="race">white people</set> are afraid of that,
         they get a man to do it for them — a policeman. Figure his mentality. The first time a black
         man jumps, that <set group="european" type="race">white man</set>’s going to shoot him. <pol>Police brutality</pol> is going to exist on that
@@ -387,14 +387,14 @@
         aggressive violence who would be able to live in this country. Show him to me. Isn’t it
         hypocritical for <person name="LBJ" occuaption="politician">Lyndon</person> to talk about how you can’t accomplish anything by
         looting and you must accomplish it by the legal ways? What does he know about legality? Ask
-        <person name='ho_chi_minh' occupation='politician'>Ho Chi Minh</person>. 
+        <person name="ho_chi_minh" occupation="politician">Ho Chi Minh</person>. 
     </p>
     
     <p> We must wage a psychological battle on the right for
-        <set group="black" type="race">black people</set> to <cause>define themselves as they see fit</cause>, and organize themselves as they see fit.
+        <set group="black" type="race">black people</set> to <cause cat="self-determination">define themselves as they see fit</cause>, and organize themselves as they see fit.
         we don’t know whether the <set group="european" type="race">white community</set> will allow for that organizing, because once they
         do they must also allow for the organizing inside their own community. It doesn’t make a
-        difference, though — we’re going to organize our way. The question is how we’re going to
+        difference, though — <act cat="active-resistance" subcat="self-determination">we’re going to organize our way.</act> The question is how we’re going to
         organize our way. The question is how we’re going to facilitate those matters, whether it’s
         going to be done with a thousand policemen with submachine guns, or whether it’s going to be
         done in a context where it’s allowed by <set group="european" type="race">white people</set> warding off those policemen. Are white
@@ -407,10 +407,10 @@
     </p>
     
     <p> 
-        <cause>We are on the move for our liberation.</cause> we’re tired of trying to prove things to <set group="european" type="race">white people</set>.
+        <cause cat="liberation">We are on the move for our liberation.</cause> we’re tired of trying to prove things to <set group="european" type="race">white people</set>.
         We are tired of trying to explain to <set group="european" type="race">white people</set> that we’re not going to hurt them.
         We are concerned with getting the things we want, the things we have to have to be able to function. The question
-        is, Will <set group="european" type="race">white people</set> <cause>overcome their racism</cause> and allow for that to happen in this
+        is, Will <set group="european" type="race">white people</set> <cause cat="anti-racism">overcome their racism</cause> and allow for that to happen in this
         country? If not, we have no choice but to say very clearly, “Move on over, or we’re going to
         move over you.”
     </p>
