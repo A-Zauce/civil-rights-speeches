@@ -12,5 +12,6 @@ return($speaker,$newLine,
 for $org at $index in $orgs
 
     let $orgCount := //org[@name=$org or @group=$org] => count()
-    
-    return($index, replace($org,"_"," "), $orgCount,$newLine))
+    let $orgOps := //org[data(@group)=$org]/data(@op)
+    let $orgOp := sum($orgOps)div$orgCount
+    return($index, replace($org,"_"," "), $orgCount, $orgOp, $newLine))
