@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../documentation/Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <speech  title="black_power" speaker="stokely_carmichael" organization="SNCC" date="1966-10-29" source="blackpast"> 
     <p>(1966) STOKELY CARMICHAEL, “BLACK POWER” </p>
     <p> It’s a privilege and an honor to be in
@@ -90,7 +91,7 @@
         face the real problem. A man is poor for one reason and one reason only–he does not have
         money. <policy cat="welfare">If you want to get rid of poverty, you give people money.</policy> And you ought not tell me
         about people who don’t work, and that you can’t give people money if they don’t work,
-        because if that were true, you’d have to start stopping <person name="nelson_rockefeller" occupation="politician">Rockefeller</person>, <person name="bobby_kennedy" occupation="politician">Kennedy</person>, <person name="LBJ" occuaption="politician">Lyndon Baines
+        because if that were true, you’d have to start stopping <person name="nelson_rockefeller" occupation="politician">Rockefeller</person>, <person name="bobby_kennedy" occupation="politician">Kennedy</person>, <person name="LBJ" occupation="politician">Lyndon Baines
             Johnson</person>, <person name="lady_bird_johnson" occupation="wife">Lady Bird Johnson</person>, the whole of <org group="standard_oil" type="company">Standard Oil</org>, the  <org group="gulf_corp" type="company">Gulf Corporation </org>, all of them,
         including probably a large number of the board of trustees of <org group="uc_berkeley" type="education">this university</org>. The question,
         then, is not whether or not one can work; it’s Who has power to make his or her acts
@@ -261,11 +262,11 @@
         remind us that they are politically aware. But we have been unable to grasp it because we’ve
         always moved in the field of morality and love while people have been politically jiving
         with our lives. You can’t move morally against men like <person name="edmund_brown?" occupation="politician">Brown</person> and <person name="ronald_reagan" occupation="politician">Reagan</person>. You can’t move
-        morally against <person name="LBJ" occuaption="politician">Lyndon Baines Johnson</person> because he is an immoral man. He doesn’t know what
+        morally against <person name="LBJ" occupation="politician">Lyndon Baines Johnson</person> because he is an immoral man. He doesn’t know what
         it’s all about. So you’ve got to move politically. We have to develop a political
         sophistication that doesn’t parrot (“The two-party system is the best system in the world”).
         We have to raise questions about whether we need new types of political institutions in this
-        country, and we in <org group="sncc" type="cr_org">SNCC</org> maintain that we need them now. Any time <person name="LBJ" occuaption="politician">Lyndon Baines Johnson</person> can
+        country, and we in <org group="sncc" type="cr_org">SNCC</org> maintain that we need them now. Any time <person name="LBJ" occupation="politician">Lyndon Baines Johnson</person> can
             head a party that has in it <person name="bobby_kennedy" occupation="politician">Bobby Kennedy</person>, <person name="wayne_morse" occupation="politician">Wayne Morse</person>, <person name="james_eastland" occupation="politician">Eastland</person>, <person name="william_wallace">Wallace</person>, and all those
         other <set>supposed-to-be-liberal cats</set>, there’s something wrong with that party. They’re moving
         politically, not morally. If that party refuses to seat <set group="black" type="race">black people</set> from Mississippi and
@@ -368,7 +369,7 @@
     <p> I look at <person name="MLK" occupation="minister">Dr. King</person> on television every single day, and I say to myself:
         “Now there is a man who’s desperately needed in this country. There is a man full of love.
         There is a man full of mercy. There is a man full of compassion.” But every time I see
-        <person name="LBJ" occuaption="politician">Lyndon</person> on television, I say, “<person name="MLK" occupation="minister">Martin</person>, baby, you got a long way
+        <person name="LBJ" occupation="politician">Lyndon</person> on television, I say, “<person name="MLK" occupation="minister">Martin</person>, baby, you got a long way
         to go.” 
     </p>
     
@@ -385,7 +386,7 @@
         nobody talks about nonviolence. But as soon as <set group="black" type="race">black people</set> start to move, the double
         standard comes into being. You can’t defend yourself. You show me a <set group="black" type="race">black man</set> who advocates
         aggressive violence who would be able to live in this country. Show him to me. Isn’t it
-        hypocritical for <person name="LBJ" occuaption="politician">Lyndon</person> to talk about how you can’t accomplish anything by
+        hypocritical for <person name="LBJ" occupation="politician">Lyndon</person> to talk about how you can’t accomplish anything by
         looting and you must accomplish it by the legal ways? What does he know about legality? Ask
         <person name="ho_chi_minh" occupation="politician">Ho Chi Minh</person>. 
     </p>
