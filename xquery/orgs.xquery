@@ -9,9 +9,11 @@ let $orgs2 := //org/@group => distinct-values()
 let $orgs := ($orgs1, $orgs2) => distinct-values()
 
 return($speaker,$newLine,
-for $org at $index in $orgs
+for $org in $orgs
 
     let $orgCount := //org[@name=$org or @group=$org] => count()
     let $orgOps := //org[data(@group)=$org]/data(@op)
     let $orgOp := sum($orgOps)div$orgCount
-    return($index, replace($org,"_"," "), $orgCount, $orgOp, $newLine))
+    where $org != //speech/data(@organization)
+    
+    return(replace($org,"_"," "), $orgCount, $orgOp, $newLine))
