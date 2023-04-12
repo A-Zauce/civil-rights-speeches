@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<speech title="the_vote_is_the_only_effective_weapon" speaker="joseph_h_jackson" organization="NBC" date="1964-09-19" source="blackpast"> (
+<?xml-model href="../documentation/Schema.rnc" type="application/relax-ng-compact-syntax"?>
+<speech title="the_vote_is_the_only_effective_weapon" speaker="joseph_h_jackson" organization="NBC" date="1964-09-19" source="blackpast">
     <p>1964 JOSEPH JACKSON, “THE VOTE IS THE ONLY EFFECTIVE WEAPON IN THE CIVIL RIGHTS STRUGGLE"</p>
     
     <p> As <set group="christians" type="religious_group">Christians</set> we are a part of our nation and a part of the struggle of America.
