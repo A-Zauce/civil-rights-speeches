@@ -28,11 +28,11 @@
             given the <set group="african" type="ethnicity">Negro</set> people a bad check; a check which has come back marked “insufficient
             funds.” <act cat="non-violence" subcat="protest">But we refuse to believe that the bank of justice is bankrupt. We refuse to
             believe that there are insufficient funds in the great vaults of opportunity of this
-            nation</act>. So we have come to cash this check a check that will give us <cause cat="">upon demand the
+            nation</act>. So we have come to cash this check a check that will give us <cause cat="equality">upon demand the
                 riches of freedom and the security of justice</cause>. We have also come to this hallowed spot
             to remind America of the fierce urgency of now. This is no time to engage in the luxury
             of cooling off or to take the tranquilizing drug of gradualism. Now is the time to make
-            real the promises of democracy. Now is the time to <cause cat="segregation">rise from the dark and desolate
+            real the promises of democracy. Now is the time to <cause cat="intergration">rise from the dark and desolate
                 valley of segregation to the sunlit path of racial justice</cause>. Now is the time to open the
             doors of opportunity to all of <set group="human">God’s children</set>. Now is the time to lift our nation from
             the quicksands of racial injustice to the solid rock of brotherhood. </p>
@@ -89,10 +89,10 @@
         <p> <cause cat="equality">I have a dream that my four little <set>children</set> will one day live in a nation where they
             will not be judged by the color of their skin but by the content of their character</cause>. </p>
         <p> I have a dream today. </p>
-        <p> <cause cat="equality">I have a dream that one day the state of Alabama, whose <person>governor</person>’s lips are presently
+        <p> I have a dream that one day the state of Alabama, whose <person>governor</person>’s lips are presently
             dripping with the words of interposition and nullification, will be transformed into a
             situation where <set>little black boys</set> and <set>black girls</set> will be able to join hands with <set>little
-                white boys</set> and <set>white girls</set> and walk together as sisters and brothers</cause>. </p>
+                white boys</set> and <set>white girls</set> and <cause cat="equality">walk together as sisters and brothers.</cause> </p>
         <p> I have a dream today. </p>
         <p> <cause cat="equality">I have a dream that one day every valley shall be exalted, every hill and mountain shall
             be made low, the rough places will be made plains, and the crooked places will be made
