@@ -2,7 +2,7 @@
 /* CSS Document */
 
 nav{
-	  position: fixed;
+	  position: sticky;
     top: 0;
     left: 0;
  	width: 100%;
@@ -64,9 +64,8 @@ a{
 
 .header {
 	text-align: right;
-	background-color: gray;
+	background-color: grey;
 	margin: 0 auto;
-	border-bottom: 1em solid #333;
 }
 
 img.header-img {
