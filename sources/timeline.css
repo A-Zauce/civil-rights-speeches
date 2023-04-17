@@ -1,0 +1,30 @@
+body {
+  background-color: Lightgray;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: 'serif';
+  border-bottom-style: solid;
+  border-color: gray;
+  border-width: 4px;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  font-family: 'serif';
+  border-bottom-style: dotted;
+  border-color: gray;
+  border-width: 2px;
+}
+
+h3 {
+  color: black;
+  text-align: center;
+  font-family: 'serif';
+   border-bottom-style: solid;
+  border-color: gray;
+  border-width: 4px;
+}
