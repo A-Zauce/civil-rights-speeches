@@ -8,7 +8,7 @@
         <p> I am happy to join with you today  in what will go down in history as the greatest
             <act cat="non-violence" subcat="gathering">demonstration </act> for freedom in the history of our nation. Five score years ago, a great
             <person name="Abraham Lincoln">American</person>, in whose symbolic shadow
-            we stand, <act cat="law" subcat="civil-rights">signed the Emancipation Proclamation</act>. This momentous decree came as a great
+            we stand, <act cat="" subcat="civil-rights">signed the Emancipation Proclamation</act>. This momentous decree came as a great
             beacon light of hope to millions of <set group="african" type="ethnicity">Negro</set> slaves had been seared in the flames of
             withering <policy cat="injustice">injustice</policy>. It came as a joyous daybreak to end the long night of captivity. </p>
         <p> But one hundred years later, we must face the tragic fact that the <set group="african" type="ethnicity">Negro</set> is still <policy cat="injustice">not
@@ -89,10 +89,10 @@
         <p> <cause cat="equality">I have a dream that my four little <set>children</set> will one day live in a nation where they
             will not be judged by the color of their skin but by the content of their character</cause>. </p>
         <p> I have a dream today. </p>
-        <p> I have a dream that one day the state of Alabama, whose <person>governor</person>’s lips are presently
+        <p> I have a dream that one day the state of Alabama, whose <person name="george_wallace" occupation="politician">governor</person>’s lips are presently
             dripping with the words of interposition and nullification, will be transformed into a
-            situation where <set>little black boys</set> and <set>black girls</set> will be able to join hands with <set>little
-                white boys</set> and <set>white girls</set> and <cause cat="equality">walk together as sisters and brothers.</cause> </p>
+            situation where <set>little black boys</set> and <set group="black">black girls</set> will be able to join hands with <set>little
+                white boys</set> and <set group="white">white girls</set> and <cause cat="equality">walk together as sisters and brothers.</cause> </p>
         <p> I have a dream today. </p>
         <p> <cause cat="equality">I have a dream that one day every valley shall be exalted, every hill and mountain shall
             be made low, the rough places will be made plains, and the crooked places will be made
