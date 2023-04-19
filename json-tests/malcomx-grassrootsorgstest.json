@@ -1,0 +1,73 @@
+{ 
+
+ "elements": [ 
+
+ { 
+
+ "label":  " malcolm x ", 
+
+ "type": "speaker" 
+
+ }, 
+
+ { 
+
+ "label":  " core ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " Kennedy family ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " CORE ", 
+
+ "type": "group" 
+
+ } 
+
+ ], 
+
+ "connections": [ 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " core ", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " Kennedy family ", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " CORE ", 
+
+ "size":  1 
+
+ } 
+
+ ] 
+
+ }
