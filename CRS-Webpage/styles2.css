@@ -155,6 +155,15 @@ body{
 	padding: 1em;
  }
 
+ #center {
+	float: center;
+	display: flex;
+	margin: auto;
+	width: 50%;
+	height: 50%;
+	padding: 1em;
+ }
+
 
 
 
