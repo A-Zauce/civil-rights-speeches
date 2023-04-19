@@ -1,0 +1,199 @@
+{ 
+
+ "elements": [ 
+
+ { 
+
+ "label":  " stokely carmichael ", 
+
+ "type": "speaker" 
+
+ }, 
+
+ { 
+
+ "label":  " sncc ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " standard oil ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " gulf corp ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " uc berkeley ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " harvard ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " democratic party ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " chase manhattan ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " general electric ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " peace corps ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " us military ", 
+
+ "type": "group" 
+
+ } 
+
+ ], 
+
+ "connections": [ 
+
+ { 
+
+ "from":  " stokely carmichael ", 
+
+ "to": " sncc ", 
+
+ "size":  6 
+
+ }, 
+
+ { 
+
+ "from":  " stokely carmichael ", 
+
+ "to": " standard oil ", 
+
+ "size":  2 
+
+ }, 
+
+ { 
+
+ "from":  " stokely carmichael ", 
+
+ "to": " gulf corp ", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "from":  " stokely carmichael ", 
+
+ "to": " uc berkeley ", 
+
+ "size":  2 
+
+ }, 
+
+ { 
+
+ "from":  " stokely carmichael ", 
+
+ "to": " harvard ", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "from":  " stokely carmichael ", 
+
+ "to": " democratic party ", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "from":  " stokely carmichael ", 
+
+ "to": " chase manhattan ", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "from":  " stokely carmichael ", 
+
+ "to": " general electric ", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "from":  " stokely carmichael ", 
+
+ "to": " peace corps ", 
+
+ "size":  3 
+
+ }, 
+
+ { 
+
+ "from":  " stokely carmichael ", 
+
+ "to": " us military ", 
+
+ "size":  1 
+
+ } 
+
+ ] 
+
+ }
