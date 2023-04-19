@@ -1,0 +1,37 @@
+{ 
+
+ "elements": [ 
+
+ { 
+
+ "label":  " MLK ", 
+
+ "type": "speaker" 
+
+ }, 
+
+ { 
+
+ "label":  " founders ", 
+
+ "type": "group" 
+
+ } 
+
+ ], 
+
+ "connections": [ 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " founders ", 
+
+ "size":  1 
+
+ } 
+
+ ] 
+
+ }
