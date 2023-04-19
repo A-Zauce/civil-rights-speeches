@@ -1,0 +1,235 @@
+{ 
+
+ "elements": [ 
+
+ { 
+
+ "label":  " MLK ", 
+
+ "type": "speaker" 
+
+ }, 
+
+ { 
+
+ "label":  " african ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " american ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " Afro-Americans ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " poc ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " human ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " white ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " activist ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " black ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " european ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " jewish ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " protestabts ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " catholics ", 
+
+ "type": "group" 
+
+ } 
+
+ ], 
+
+ "connections": [ 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " african ", 
+
+ "size":  18 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " american ", 
+
+ "size":  3 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " Afro-Americans ", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " poc ", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " human ", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " white ", 
+
+ "size":  5 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " activist ", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " black ", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " european ", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " jewish ", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " protestabts ", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " catholics ", 
+
+ "size":  1 
+
+ } 
+
+ ] 
+
+ }

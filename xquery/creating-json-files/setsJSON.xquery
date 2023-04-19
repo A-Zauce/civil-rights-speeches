@@ -9,13 +9,13 @@ return ('{',$linefeed,'"elements": [',$linefeed,
 
     '{',$linefeed,'"label": ','"',replace($speaker,"_"," "),'",',$linefeed,'"type": "speaker"',$linefeed,'},',$linefeed,
     
-    let $orgs := //org/@group => distinct-values()
+    let $sets := //set/@group => distinct-values()
     
-    for $org at $index in $orgs
+    for $set at $index in $sets
         
-        return('{',$linefeed,'"label": ','"',replace($org,"_"," "),'",',$linefeed,
+        return('{',$linefeed,'"label": ','"',replace($set,"_"," "),'",',$linefeed,
         '"type": "group"',$linefeed,
-            if($index eq count($orgs))
+            if($index eq count($sets))
             then('}')
             else('},')
         ,$linefeed)
@@ -23,16 +23,16 @@ return ('{',$linefeed,'"elements": [',$linefeed,
      
      let $speech := //speech
      
-     let $orgs := //org/@group => distinct-values()
+     let $sets := //set/@group => distinct-values()
     
-    for $org at $index in $orgs
+    for $set at $index in $sets
     
-        let $numRef := //org[@group=$org] => count()
+        let $numRef := //set[@group=$set] => count()
         
         return('{',$linefeed,'"from": ','"',replace($speaker,"_"," "),'",',$linefeed,
-        '"to": "',replace($org,"_"," "),'",',$linefeed,
+        '"to": "',replace($set,"_"," "),'",',$linefeed,
         '"size": ',$numRef,$linefeed,
-        if($index eq count($orgs))
+        if($index eq count($sets))
             then('}')
             else('},')
         ,$linefeed),']',$linefeed,'}')
