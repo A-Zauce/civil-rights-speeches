@@ -33,7 +33,7 @@ return ('{',$linefeed,'"elements": [',$linefeed,
         
         return('{',$linefeed,'"from": ','"',replace($speaker,"_"," "),'",',$linefeed,
         '"to": "',replace($org,"_"," "),'",',$linefeed,
-        '"size": ',$numRef,$linefeed,
+        '"size": ',$numRef,$linefeed,",",
         '"opinion": ',$orgOp,$linefeed,
         if($index eq count($orgs))
             then('}')
