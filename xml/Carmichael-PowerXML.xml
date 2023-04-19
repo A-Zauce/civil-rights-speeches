@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../documentation/Schema.rnc" type="application/relax-ng-compact-syntax"?>
-<speech  title="black_power" speaker="stokely_carmichael" organization="SNCC" date="1966-10-29" source="blackpast"> 
+<speech  title="black_power" speaker="stokely_carmichael" organization="sncc" date="1966-10-29" source="blackpast"> 
     <p>(1966) STOKELY CARMICHAEL, “BLACK POWER” </p>
     <p> It’s a privilege and an honor to be in
         the white intellectual ghetto of the West. This is a student conference, as it should be,
@@ -13,7 +13,7 @@
     <p> The philosophers <person name="albert_camus" occupation="philosopher">Camus</person> and <person name="jean-paul_sartre" occupation="philosopher">Sartre</person> raise the
         question of whether or not a man can condemn himself. The <set group="black" type="race">black</set> existentialist philosopher
         who is pragmatic, <person name="frantz_fanon" occupation="philosopher">Frantz Fanon</person>, answered the question. He said that man could
-        not. <person name="albert_camus" occupation="philosopher">Camus</person> and <person name="jean-paul_sartre" occupation="philosopher">Sartre</person> don’t answer the question. We in <org group="sncc" type="cr_org"> SNCC </org> tend to agree with <person name="frantz_fanon" occupation="philosopher">Fanon</person>–a man
+        not. <person name="albert_camus" occupation="philosopher">Camus</person> and <person name="jean-paul_sartre" occupation="philosopher">Sartre</person> don’t answer the question. We in <org group="sncc" type="cr_org" op="5"> SNCC </org> tend to agree with <person name="frantz_fanon" occupation="philosopher">Fanon</person>–a man
         cannot condemn himself. If he did, he would then have to inflict punishment upon himself. An
         example is the <set group="nazi" type="political_party">Nazis</set>. Any of the <set group="nazi" type="political_party">Nazi</set> prisoners who, after he was caught and incarcerated,
         admitted that he committed crimes, that he killed all the many people he killed, had to
@@ -26,7 +26,7 @@
                 not because they elected <person name="lawrence_rainey" occupation="police_officer">Mr. Rainey</person> to do precisely what he did; and condemning him would be
         condemning themselves.
     </p>
-    <p> In a much larger view, <org group="sncc" type="cr_org">SNCC</org> says that <set group="european" type="race">white
+    <p> In a much larger view, <org group="sncc" type="cr_org" op="5">SNCC</org> says that <set group="european" type="race">white
         America</set> cannot condemn herself for her criminal acts against <set group="black" type="race">black America</set>. So
         <set group="black" type="race">black people</set> have done it–you stand condemned. <policy cat="critical_race_theory">The institutions that function in this
             country are clearly racist; they’re built upon racism.</policy> The questions to be dealt with then
@@ -60,7 +60,7 @@
         <set group="european" type="race">white people</set>. I know I can live anyplace I want to live. It is <set group="european" type="race">white people</set> across this
         country who are incapable of allowing me to live where I want. You need a civil rights bill,
         not me. The failure of the civil rights bill isn’t because of <cause cat="self-determination">Black Power</cause> or because of the
-        <org group="sncc" type="cr_org">Student Nonviolent Coordinating Committee </org> or because of the rebellions that are occurring in
+        <org group="sncc" type="cr_org" op="5">Student Nonviolent Coordinating Committee </org> or because of the rebellions that are occurring in
         the major cities. That failure is due to the <set group="european" type="race">white’s</set> incapacity to deal with their own
         problems inside their own communities. And so in a sense we must ask, How is it that <set group="black" type="race">black
             people</set> move? And what do we do? But the question in a much greater sense is, How can <set group="european" type="race">white
@@ -92,8 +92,8 @@
         money. <policy cat="welfare">If you want to get rid of poverty, you give people money.</policy> And you ought not tell me
         about people who don’t work, and that you can’t give people money if they don’t work,
         because if that were true, you’d have to start stopping <person name="nelson_rockefeller" occupation="politician">Rockefeller</person>, <person name="bobby_kennedy" occupation="politician">Kennedy</person>, <person name="LBJ" occupation="politician">Lyndon Baines
-            Johnson</person>, <person name="lady_bird_johnson" occupation="wife">Lady Bird Johnson</person>, the whole of <org group="standard_oil" type="company">Standard Oil</org>, the  <org group="gulf_corp" type="company">Gulf Corporation </org>, all of them,
-        including probably a large number of the board of trustees of <org group="uc_berkeley" type="education">this university</org>. The question,
+            Johnson</person>, <person name="lady_bird_johnson" occupation="wife">Lady Bird Johnson</person>, the whole of <org group="standard_oil" type="company" op="1">Standard Oil</org>, the  <org group="gulf_corp" type="company" op="1">Gulf Corporation </org>, all of them,
+        including probably a large number of the board of trustees of <org group="uc_berkeley" type="education" op="1">this university</org>. The question,
         then, is not whether or not one can work; it’s Who has power to make his or her acts
         legitimate? That is all. In his country that power is invested in the hands of <set group="european" type="race">white people</set>,
         and it makes their acts legitimate.
@@ -125,7 +125,7 @@
         segregation. We cannot afford to be concerned about the 6 percent <set group="black" type="race">black children</set> in this
         country whom you allow to enter white schools. <policy cat="concern_for_poor">We are going to be concerned about the 94
             percent. You ought to be concerned about them too.</policy> But are we willing to be concerned about
-        the <set group="black" type="race">black people</set> who will never get to <org group="uc_berkeley" type="education">Berkeley</org>, never get to <org group="harvard" type="education">Harvard</org>, and cannot get an
+        the <set group="black" type="race">black people</set> who will never get to <org group="uc_berkeley" type="education" op="0">Berkeley</org>, never get to <org group="harvard" type="education" op="0">Harvard</org>, and cannot get an
         education, the ones you’ll never get a chance to rub shoulders with and say, “Why, he’s
         almost as good as we are; he’s not like the others”? The question is, How can white society
         begin to move to see <set group="black" type="race">black people</set> as human beings? I am <set group="black" type="race">black</set>, therefore I am. Not I am
@@ -161,7 +161,7 @@
         inside the <set group="european" type="race">white community</set>. </p>
     
     <p> Our political position is that we don’t think the
-    <org group="democratic_party" type="political_party">Democratic Party</org> represents the needs of <set group="black" type="race">black people</set>. We know that it does not. If, in
+    <org group="democratic_party" type="political_party" op="1">Democratic Party</org> represents the needs of <set group="black" type="race">black people</set>. We know that it does not. If, in
         fact, <set group="european" type="race">white people</set> believe that they’re going to move inside that structure, how are they
         going to organize around a concept of whiteness based on true brotherhood and on stopping
         economic exploitation in order to form a coalition base for <set group="black" type="race">black people</set> to hook up with?
@@ -206,7 +206,7 @@
         everybody has a 2S and is not afraid of being drafted anyway. The problem is how you can
         move out of that into the white ghettos of this country and articulate a position for those
         <set group="european" type="race">white youth</set> who do not want to go. You cannot do that. It is sometimes ironic that many of
-        the peace groups have begun to call <org group="sncc" type="cr_org">SNCC</org> violent and they say they can no longer support us,
+        the peace groups have begun to call <org group="sncc" type="cr_org" op="5">SNCC</org> violent and they say they can no longer support us,
         when we are in fact the most militant organization for peace or civil rights or human rights
         against the war in Vietnam in this country today. 
     </p>
@@ -266,7 +266,7 @@
         it’s all about. So you’ve got to move politically. We have to develop a political
         sophistication that doesn’t parrot (“The two-party system is the best system in the world”).
         We have to raise questions about whether we need new types of political institutions in this
-        country, and we in <org group="sncc" type="cr_org">SNCC</org> maintain that we need them now. Any time <person name="LBJ" occupation="politician">Lyndon Baines Johnson</person> can
+        country, and we in <org group="sncc" type="cr_org" op="5">SNCC</org> maintain that we need them now. Any time <person name="LBJ" occupation="politician">Lyndon Baines Johnson</person> can
             head a party that has in it <person name="bobby_kennedy" occupation="politician">Bobby Kennedy</person>, <person name="wayne_morse" occupation="politician">Wayne Morse</person>, <person name="james_eastland" occupation="politician">Eastland</person>, <person name="william_wallace">Wallace</person>, and all those
         other <set>supposed-to-be-liberal cats</set>, there’s something wrong with that party. They’re moving
         politically, not morally. If that party refuses to seat <set group="black" type="race">black people</set> from Mississippi and
@@ -277,7 +277,7 @@
     <p>
         <act cat="non-violence" subcat="questioning">We must question the values of this society</act>, and I maintain that <set group="black" type="race">black people</set> are the best
         people to do that since we have been excluded from that society. we ought to think whether
-        or not we want to become a part of that society. That’s precisely what the <org group="sncc" type="cr_org">Student
+        or not we want to become a part of that society. That’s precisely what the <org group="sncc" type="cr_org" op="5">Student
             Nonviolent Coordinating Committee</org> is doing. We are raising questions about this country. I
         do not want to be a part of the American pie. The American pie means raping South Africa,
         beating Vietnam, beating South America, raping the Philippines, raping every country you’ve
@@ -307,27 +307,27 @@
         from Vietnam this week, next week you’d have to get another <cause cat="anti-war">peace movement</cause> for Santo
         Domingo. We have to hook up with <set group="black" type="race">black people</set> around the world; and that hookup must not
         only be psychological, but real. If South America were to rebel today, and <set group="black" type="race">black people</set> were
-        to <act cat="active_resistance" subcat="shoot">shoot the hell out of</act> all the <set group="european" type="race">white people</set> there, as they should, <org group="standard_oil" type="company">Standard Oil</org> would
-        crumble tomorrow. If South Africa were to go today, <org group="chase_manhattan" type="company">Chase Manhattan Bank</org> would crumble
+        to <act cat="active_resistance" subcat="shoot">shoot the hell out of</act> all the <set group="european" type="race">white people</set> there, as they should, <org group="standard_oil" type="company" op="0">Standard Oil</org> would
+        crumble tomorrow. If South Africa were to go today, <org group="chase_manhattan" type="company" op="0">Chase Manhattan Bank</org> would crumble
         tomorrow. If Zimbabwe, which is called Rhodesia by <set group="european" type="race">white people</set>, were to go tomorrow,
-        <org group="general_electric" type="company">General Electric</org> would cave in on the East Coast.
+        <org group="general_electric" type="company" op="0">General Electric</org> would cave in on the East Coast.
     </p>
     <p> 
         How do we <cause cat="anti-war">stop those institutions
             that are so willing to fight against “Communist aggression”</cause> but close their eyes against
-            racist oppression? We’re not talking about a policy of aid or sending <org group="peace_corps" type="government">Peace Corps</org> people in
+            racist oppression? We’re not talking about a policy of aid or sending <org group="peace_corps" type="government" op="2">Peace Corps</org> people in
         to teach people how to read and write and build houses while we steal their raw materials
         from them. Because that’s all this country does. What <act cat="non-violent" subcat="education">underdeveloped countries need is
             information about how to become industrialized</act>, so they can keep their raw materials where
         they have them, produce goods, sell them to this country for the price it’s supposed to pay.
         instead, America keeps selling goods back to them for a profit and keeps sending our modern
-            day missionaries there, calling them the <org group="peace_corps" type="government">sons of Kennedy</org>. And if the youth are going to
-        participate in that program, how do you begin to control the <org group="peace_corps" type="government">Peace Corps</org>. 
+            day missionaries there, calling them the <org group="peace_corps" type="government" op="1">sons of Kennedy</org>. And if the youth are going to
+        participate in that program, how do you begin to control the <org group="peace_corps" type="government" op="1">Peace Corps</org>. 
     </p>
     
-    <p> This country assumes that if someone ispoor, they are poor because of their own individual
+    <p> This country assumes that if someone is poor, they are poor because of their own individual
         blight, or because they weren’t born on the right side of town, or they had too many
-        children, or went in the <org group="us_military" type="government">army</org> too early, or because their father was a drunk, or they didn’t
+        children, or went in the <org group="us_military" type="government" op="1">army</org> too early, or because their father was a drunk, or they didn’t
         care about school–they made a mistake. That’s a lot of nonsense. Poverty is well calculated
         in this country, and the reason why the poverty program won’t work is because the
             calculators of poverty are administering it. 
