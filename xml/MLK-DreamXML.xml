@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../documentation/Schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../documentation/Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <speech title="i_have_a_dream" speaker="MLK" organization="SCLC" date="1963-08-28" source="blackpast" >
-    <section heading="">
+    <p>
 (1963) MARTIN LUTHER KING JR., “I HAVE A DREAM”
-    
+    </p>
         
         <p> I am happy to join with you today  in what will go down in history as the greatest
             <act cat="non-violence" subcat="gathering">demonstration </act> for freedom in the history of our nation. Five score years ago, a great
@@ -122,7 +122,7 @@
             able to join hands and sing in the words of the old <set group="african" type="ethnicity">Negro</set> spiritual, “Free at last! Free
             at last! Thank God Almighty, we are free at last!” </p>
 
-    </section>
+
 
     <citation> Citation: BlackPast, B. (2007, January 29). (1963) Martin Luther King Jr., “I Have a
         Dream”. BlackPast.org.
