@@ -1,0 +1,159 @@
+{ 
+
+ "elements": [ 
+
+ { 
+
+ "label":  " muhammad ali ", 
+
+ "type": "speaker" 
+
+ }, 
+
+ { 
+
+ "label":  " chinese ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " russian ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " jewish ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " indigenous ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " cuban ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " african ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " european ", 
+
+ "type": "group" 
+
+ } 
+
+ ], 
+
+ "connections": [ 
+
+ { 
+
+ "from":  " muhammad ali ", 
+
+ "to": " chinese ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " muhammad ali ", 
+
+ "to": " russian ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " muhammad ali ", 
+
+ "to": " jewish ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " muhammad ali ", 
+
+ "to": " indigenous ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " muhammad ali ", 
+
+ "to": " cuban ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " muhammad ali ", 
+
+ "to": " african ", 
+
+ "size":  5 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " muhammad ali ", 
+
+ "to": " european ", 
+
+ "size":  20 , 
+
+ "opinion":  0 
+
+ } 
+
+ ] 
+
+ }

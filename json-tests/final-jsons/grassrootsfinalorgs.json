@@ -1,0 +1,119 @@
+{ 
+
+ "elements": [ 
+
+ { 
+
+ "label":  " malcolm x ", 
+
+ "type": "speaker" 
+
+ }, 
+
+ { 
+
+ "label":  " sclc ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " core ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " congress ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " Kennedy family ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " CORE ", 
+
+ "type": "group" 
+
+ } 
+
+ ], 
+
+ "connections": [ 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " sclc ", 
+
+ "size":  1 , 
+
+ "opinion":  1 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " core ", 
+
+ "size":  1 , 
+
+ "opinion":  3 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " congress ", 
+
+ "size":  2 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " Kennedy family ", 
+
+ "size":  1 , 
+
+ "opinion":  1 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " CORE ", 
+
+ "size":  1 , 
+
+ "opinion":  3 
+
+ } 
+
+ ] 
+
+ }
