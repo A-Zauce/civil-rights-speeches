@@ -1,7 +1,7 @@
 declare variable $speeches:=collection('../xml');
-declare variable $nvm-speeches := $speeches//Q{}speech[@speaker="joseph_h_jackson" ]; 
-declare variable $noi-speeches := $speeches//Q{}speech[@speaker="malcolm_x" ]; 
-declare variable $bpp-speeches := $speeches//Q{}speech[@speaker="h_newton" ]; 
+declare variable $nvm-speeches := $speeches//Q{}speech[@speaker="joseph_h_jackson" or @speaker ="MLK" or @speaker="stokely_carmichael" ]; 
+declare variable $noi-speeches := $speeches//Q{}speech[@speaker="malcolm_x" or @speaker="muhammad_ali" ]; 
+declare variable $bpp-speeches := $speeches//Q{}speech[@speaker="h_newton" or @speaker="b_seale" or @speaker="f_hampton" ]; 
 (:whc: who else is NVM in your sample? add them to this predicate but ONLY after the xml is validated:)
 (:whc: also define new global variables for NoI speakers, Panthers speakers:)
 declare variable $organ := //speech/data(@organization);
