@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../documentation/Schema.rnc" type="application/relax-ng-compact-syntax"?>
-<speech  title="what's_your_name?" speaker="muhammad_ali" organization="nation_of_islam" date="1967-04-22" source="">
+<speech  title="what's_your_name?" speaker="muhammad_ali" organization="NoI" date="1967-04-22" source="">
 <p>(1967) Muhammad Ali, “Black is Best”
 April 22, 1967</p>
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../documentation/Schema.rnc" type="application/relax-ng-compact-syntax"?>
-<speech  title="i've_been_to_the_mountaintop" speaker="MLK" organization="SCLC" date="1968-04-03" source="blackpast">
+<speech  title="i've_been_to_the_mountaintop" speaker="MLK" organization="NVM" date="1968-04-03" source="blackpast">
 <p>
 (1968) MARTIN LUTHER KING, JR., “I’VE BEEN TO THE MOUNTAINTOP”
 </p>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../documentation/Schema.rnc" type="application/relax-ng-compact-syntax"?>
-<speech title="i_have_a_dream" speaker="MLK" organization="SCLC" date="1963-08-28" source="blackpast" >
+<speech title="i_have_a_dream" speaker="MLK" organization="NVM" date="1963-08-28" source="blackpast" >
     <p>
 (1963) MARTIN LUTHER KING JR., “I HAVE A DREAM”
     </p>

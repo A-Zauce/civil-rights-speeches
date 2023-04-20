@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../documentation/Schema.rnc" type="application/relax-ng-compact-syntax"?>
-<speech title="the_ballot_or_the_bullet" speaker="malcolm_x" organization="nation_of_islam" date="1964-04-12" source="blackpast">
+<speech title="the_ballot_or_the_bullet" speaker="malcolm_x" organization="NoI" date="1964-04-12" source="blackpast">
 <p>(1964) MALCOLM X, “THE BALLOT OR THE BULLET”</p>
 
 
