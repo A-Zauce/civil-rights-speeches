@@ -8,6 +8,12 @@
   margin: 0 auto;
 }
 
+img{
+    height: 50px;
+    width: 100px;
+   
+}
+
 nav{
 	  position: sticky;
     top: 0;
