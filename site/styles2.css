@@ -1,6 +1,13 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.timeline {
+  text-align: center; 
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 nav{
 	  position: sticky;
     top: 0;
