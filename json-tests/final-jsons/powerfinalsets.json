@@ -1,0 +1,179 @@
+{ 
+
+ "elements": [ 
+
+ { 
+
+ "label":  " stokely carmichael ", 
+
+ "type": "speaker" 
+
+ }, 
+
+ { 
+
+ "label":  " black ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " nazi ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " jews ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " european ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " police ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " vietnamese ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " dixiecrat ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " quakers ", 
+
+ "type": "group" 
+
+ } 
+
+ ], 
+
+ "connections": [ 
+
+ { 
+
+ "from":  " stokely carmichael ", 
+
+ "to": " black ", 
+
+ "size":  65 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " stokely carmichael ", 
+
+ "to": " nazi ", 
+
+ "size":  4 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " stokely carmichael ", 
+
+ "to": " jews ", 
+
+ "size":  2 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " stokely carmichael ", 
+
+ "to": " european ", 
+
+ "size":  54 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " stokely carmichael ", 
+
+ "to": " police ", 
+
+ "size":  3 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " stokely carmichael ", 
+
+ "to": " vietnamese ", 
+
+ "size":  2 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " stokely carmichael ", 
+
+ "to": " dixiecrat ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " stokely carmichael ", 
+
+ "to": " quakers ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ } 
+
+ ] 
+
+ }
