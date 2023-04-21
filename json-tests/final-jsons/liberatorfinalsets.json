@@ -1,0 +1,299 @@
+{ 
+
+ "elements": [ 
+
+ { 
+
+ "label":  " f hampton ", 
+
+ "type": "speaker" 
+
+ }, 
+
+ { 
+
+ "label":  " wealthy elite ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " children ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " criminals ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " white people ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " black people ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " pol prisoners ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " revol leaders ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " revolutionaries ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " poor ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " armchair theorists ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " revol orgs ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " brown people ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " AIAN ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " asian people ", 
+
+ "type": "group" 
+
+ } 
+
+ ], 
+
+ "connections": [ 
+
+ { 
+
+ "from":  " f hampton ", 
+
+ "to": " wealthy elite ", 
+
+ "size":  2 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " f hampton ", 
+
+ "to": " children ", 
+
+ "size":  4 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " f hampton ", 
+
+ "to": " criminals ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " f hampton ", 
+
+ "to": " white people ", 
+
+ "size":  3 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " f hampton ", 
+
+ "to": " black people ", 
+
+ "size":  3 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " f hampton ", 
+
+ "to": " pol prisoners ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " f hampton ", 
+
+ "to": " revol leaders ", 
+
+ "size":  2 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " f hampton ", 
+
+ "to": " revolutionaries ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " f hampton ", 
+
+ "to": " poor ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " f hampton ", 
+
+ "to": " armchair theorists ", 
+
+ "size":  2 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " f hampton ", 
+
+ "to": " revol orgs ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " f hampton ", 
+
+ "to": " brown people ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " f hampton ", 
+
+ "to": " AIAN ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " f hampton ", 
+
+ "to": " asian people ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ } 
+
+ ] 
+
+ }

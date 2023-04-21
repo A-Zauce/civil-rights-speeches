@@ -1,0 +1,99 @@
+{ 
+
+ "elements": [ 
+
+ { 
+
+ "label":  " f hampton ", 
+
+ "type": "speaker" 
+
+ }, 
+
+ { 
+
+ "label":  " police ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " black panthers ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " organization us ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " progressive labor ", 
+
+ "type": "group" 
+
+ } 
+
+ ], 
+
+ "connections": [ 
+
+ { 
+
+ "from":  " f hampton ", 
+
+ "to": " police ", 
+
+ "size":  12 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " f hampton ", 
+
+ "to": " black panthers ", 
+
+ "size":  27 , 
+
+ "opinion":  5 
+
+ }, 
+
+ { 
+
+ "from":  " f hampton ", 
+
+ "to": " organization us ", 
+
+ "size":  2 , 
+
+ "opinion":  1 
+
+ }, 
+
+ { 
+
+ "from":  " f hampton ", 
+
+ "to": " progressive labor ", 
+
+ "size":  10 , 
+
+ "opinion":  1.6 
+
+ } 
+
+ ] 
+
+ }
