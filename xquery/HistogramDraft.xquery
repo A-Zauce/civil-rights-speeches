@@ -77,7 +77,8 @@ declare variable $bar-width :=30;
     <text x="150" y="550">Self Defense</text>
     <line x1="300" y1="500" x2="350" y2="500" stroke-width="{$bar-width}" stroke="green"/>
     <text x="300" y="550">Nonviolence</text>
-   
+    <line x1="0" y1="0" x2="0" y2="330" stroke-width="5" stroke="black"/>
+    <line x1="-2" y1="330" x2="800" y2="330" stroke-width="5" stroke="black"/>
 </g>
 
 
