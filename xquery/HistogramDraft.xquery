@@ -14,11 +14,15 @@ declare variable $bar-width :=30;
 <g transform="translate(150,100)">
 <g>
 <text x="0" y="-5" font-family="" font-size="" fill="">Frequency of Acts by Organizations</text>
+<text x="-55" y="100">NVM</text>
+<text x="-55" y="200">NOI</text>
+<text x="-55" y="300">BPP</text>
 </g>
 <g>
 
     
       <g><!--whc: first the bar for NVM, in three lines-->
+      
       <line x1="0" y1="100" 
       x2="{let $actCount := $nvm-speeches//Q{}act[@cat="active-resistance"] => count() div $nvm-speeches//Q{}act=>count()
     return $actCount * $xspacer}" 
@@ -66,6 +70,14 @@ declare variable $bar-width :=30;
     return $actCount * $xspacer}"  y1="300" 
       x2="{$xspacer}" 
     y2="300" stroke-width="{$bar-width}" stroke="green"/>
+    
+    <line x1="0" y1="500" x2="50" y2="500" stroke-width="{$bar-width}" stroke="red"/>
+    <text x="0" y="550">Active Resistance</text>
+    <line x1="150" y1="500" x2="200" y2="500" stroke-width="{$bar-width}" stroke="yellow"/>
+    <text x="150" y="550">Self Defense</text>
+    <line x1="300" y1="500" x2="350" y2="500" stroke-width="{$bar-width}" stroke="green"/>
+    <text x="300" y="550">Nonviolence</text>
+   
 </g>
 
 
