@@ -22,6 +22,7 @@ nav{
     display: flex;
     justify-content: space-evenly;
     background: #252525;
+    z-index: 2; /* amz: adjustment that lets it work with tooltips */
 }
 
 a{
@@ -150,6 +151,36 @@ body{
   text-align: center;
   line-height: 75px;
   font-size: 30px;
+}
+
+.tooltip { /* bookmark */
+  position: relative;
+  display: inline-block;
+  width: 50%;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 50%;
+  background-color: #dfdcdd;
+  color: #000000;
+  text-align: left;
+  padding: 6px 6px;
+  border-radius: 6px;
+  float: left;
+
+  position: absolute;
+  z-index: 1;
+  top: 20%;
+  left: 100%;
+
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
 }
 
  #left {
