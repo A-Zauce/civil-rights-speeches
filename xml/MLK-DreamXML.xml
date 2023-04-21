@@ -8,7 +8,7 @@
         <p> I am happy to join with you today  in what will go down in history as the greatest
             <act cat="non-violence" subcat="gathering">demonstration </act> for freedom in the history of our nation. Five score years ago, a great
             <person name="Abraham Lincoln">American</person>, in whose symbolic shadow
-            we stand, <act cat="" subcat="civil-rights">signed the Emancipation Proclamation</act>. This momentous decree came as a great
+            we stand, <act cat="non-violence" subcat="civil-rights">signed the Emancipation Proclamation</act>. This momentous decree came as a great
             beacon light of hope to millions of <set group="african" type="ethnicity">Negro</set> slaves had been seared in the flames of
             withering <policy cat="injustice">injustice</policy>. It came as a joyous daybreak to end the long night of captivity. </p>
         <p> But one hundred years later, we must face the tragic fact that the <set group="african" type="ethnicity">Negro</set> is still <policy cat="injustice">not
@@ -19,7 +19,7 @@
             <set group="american" type="nationality">American</set> society and finds <set group="Afro-Americans" type="race">himself</set> an <policy cat="inequality">exile in his own land</policy>. <act cat="non-violence" subcat="demostration">So we have come here today
                 to dramatize an appalling condition.</act> </p>
         <p> In a sense we have come to our nation’s capital to cash a check. When the <set group="founders" type="pol_org">architects</set> of
-            our republic <act cat="law" subcat="civil_rights">wrote the magnificent words of the Constitution and the Declaration of
+            our republic <act cat="non-violence" subcat="civil_rights">wrote the magnificent words of the Constitution and the Declaration of
                 Independence</act>, they were signing a <act cat="non-violence" subcat="promise">promissory note</act> to which every <set group="american" type="nationality">American</set> was to fall
             heir. This note was a <act cat="non-violence" subcat="promise">promise</act> that all men would be guaranteed the unalienable rights of
             life, liberty, and the pursuit of happiness. </p>

@@ -34,6 +34,38 @@ declare variable $bar-width :=30;
     return $actCount * $xspacer}"  y1="100" 
       x2="{$xspacer}" 
     y2="100" stroke-width="{$bar-width}" stroke="green"/>
+    <!--nation of islam-->
+    <line x1="0" y1="200" 
+      x2="{let $actCount := $noi-speeches//Q{}act[@cat="active-resistance"] => count() div $noi-speeches//Q{}act=>count()
+    return $actCount * $xspacer}" 
+    y2="200" stroke-width="{$bar-width}" stroke="red"/>
+    
+    <line x1="{let $actCount := $noi-speeches//Q{}act[@cat="active-resistance"] => count() div $noi-speeches//Q{}act=>count()
+    return $actCount * $xspacer}" y1="200" 
+      x2="{let $actCount := $noi-speeches//Q{}act[@cat="active-resistance" or @cat="self-defense"] => count() div $noi-speeches//Q{}act=>count()
+    return $actCount * $xspacer}" 
+    y2="200" stroke-width="{$bar-width}" stroke="yellow"/>
+    
+    <line x1="{let $actCount := $noi-speeches//Q{}act[@cat="active-resistance" or @cat="self-defense"] => count() div $noi-speeches//Q{}act=>count()
+    return $actCount * $xspacer}"  y1="200" 
+      x2="{$xspacer}" 
+    y2="200" stroke-width="{$bar-width}" stroke="green"/>
+    <!--black panthers line -->
+    <line x1="0" y1="300" 
+      x2="{let $actCount := $bpp-speeches//Q{}act[@cat="active-resistance"] => count() div $bpp-speeches//Q{}act=>count()
+    return $actCount * $xspacer}" 
+    y2="300" stroke-width="{$bar-width}" stroke="red"/>
+    
+    <line x1="{let $actCount := $bpp-speeches//Q{}act[@cat="active-resistance"] => count() div $bpp-speeches//Q{}act=>count()
+    return $actCount * $xspacer}" y1="300" 
+      x2="{let $actCount := $bpp-speeches//Q{}act[@cat="active-resistance" or @cat="self-defense"] => count() div $bpp-speeches//Q{}act=>count()
+    return $actCount * $xspacer}" 
+    y2="300" stroke-width="{$bar-width}" stroke="yellow"/>
+    
+    <line x1="{let $actCount := $bpp-speeches//Q{}act[@cat="active-resistance" or @cat="self-defense"] => count() div $bpp-speeches//Q{}act=>count()
+    return $actCount * $xspacer}"  y1="300" 
+      x2="{$xspacer}" 
+    y2="300" stroke-width="{$bar-width}" stroke="green"/>
 </g>
 
 
