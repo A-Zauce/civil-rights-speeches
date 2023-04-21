@@ -1,0 +1,199 @@
+{ 
+
+ "elements": [ 
+
+ { 
+
+ "label":  " MLK ", 
+
+ "type": "speaker" 
+
+ }, 
+
+ { 
+
+ "label":  " vanderbiltU ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " coca-cola ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " sealtest diary ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " continental baking ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " hart's bakery ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " tri-state ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " sclc ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " New York Times ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " white plains high ", 
+
+ "type": "group" 
+
+ } 
+
+ ], 
+
+ "connections": [ 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " vanderbiltU ", 
+
+ "size":  1 , 
+
+ "opinion":  1 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " coca-cola ", 
+
+ "size":  1 , 
+
+ "opinion":  1 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " sealtest diary ", 
+
+ "size":  1 , 
+
+ "opinion":  1 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " continental baking ", 
+
+ "size":  1 , 
+
+ "opinion":  1 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " hart's bakery ", 
+
+ "size":  1 , 
+
+ "opinion":  1 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " tri-state ", 
+
+ "size":  1 , 
+
+ "opinion":  4 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " sclc ", 
+
+ "size":  2 , 
+
+ "opinion":  5 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " New York Times ", 
+
+ "size":  1 , 
+
+ "opinion":  2 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " white plains high ", 
+
+ "size":  1 , 
+
+ "opinion":  2 
+
+ } 
+
+ ] 
+
+ }
