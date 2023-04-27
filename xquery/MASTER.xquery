@@ -122,6 +122,108 @@ declare variable $bar-width :=30;
       x2="{$xspacer}" 
     y2="275" stroke-width="{$bar-width}" stroke="green"/>
     
+    <!--Malcolm X lines-->
+    <line x1="0" y1="325"
+    x2="{let $actcount := $malcolmx-speech1//Q{}act[@cat="active-resistance"] => count() div $malcolmx-speech1//Q{}act=>count()
+    return $actcount * $xspacer}"
+    y2="325" stroke-width="{$bar-width}" stroke="red"/>
+    
+    <line x1="{let $actcount := $malcolmx-speech1//Q{}act[@cat="active-resistance"] => count() div $malcolmx-speech1//Q{}act=>count()
+    return $actcount * $xspacer}" y1="325"
+    x2="{let $actcount := $malcolmx-speech1//Q{}act[@cat="active-resistance" or @cat="self-defense"] => count() div $malcolmx-speech1//Q{}act=>count()
+    return $actcount * $xspacer}"
+    y2="325" stroke-width="{$bar-width}" stroke="yellow"/>
+    
+    <line x1="{let $actcount := $malcolmx-speech1//Q{}act[@cat="active-resistance" or @cat="self-defense"] =>count() div $malcolmx-speech1//Q{}act=>count()
+    return $actcount * $xspacer}" y1="325"
+    x2="{$xspacer}"
+    y2="325" stroke-width="{$bar-width}" stroke="green"/>
+    
+    
+    <line x1="0" y1="375"
+    x2="{let $actcount := $malcolmx-speech2//Q{}act[@cat="active-resistance"] => count() div $malcolmx-speech2//Q{}act=>count()
+    return $actcount * $xspacer}"
+    y2="375" stroke-width="{$bar-width}" stroke="red"/>
+    
+    <line x1="{let $actcount := $malcolmx-speech2//Q{}act[@cat="active-resistance"] => count() div $malcolmx-speech2//Q{}act=>count()
+    return $actcount * $xspacer}" y1="375"
+    x2="{let $actcount := $malcolmx-speech2//Q{}act[@cat="active-resistance" or @cat="self-defense"] => count() div $malcolmx-speech2//Q{}act=>count()
+    return $actcount * $xspacer}"
+    y2="375" stroke-width="{$bar-width}" stroke="yellow"/>
+    
+    <line x1="{let $actcount := $malcolmx-speech2//Q{}act[@cat="active-resistance" or @cat="self-defense"] =>count() div $malcolmx-speech2//Q{}act=>count()
+    return $actcount * $xspacer}" y1="375"
+    x2="{$xspacer}"
+    y2="375" stroke-width="{$bar-width}" stroke="green"/>
+    
+    <!--Ali lines-->
+    <line x1="0" y1="425"
+    x2="{let $actcount := $ali-speeches//Q{}act[@cat="active-resistance"] => count() div $ali-speeches//Q{}act=>count()
+    return $actcount * $xspacer}"
+    y2="425" stroke-width="{$bar-width}" stroke="red"/>
+    
+    <line x1="{let $actcount := $ali-speeches//Q{}act[@cat="active-resistance"] => count() div $ali-speeches//Q{}act=>count()
+    return $actcount * $xspacer}" y1="425"
+    x2="{let $actcount := $ali-speeches//Q{}act[@cat="active-resistance" or @cat="self-defense"] => count() div $ali-speeches//Q{}act=>count()
+    return $actcount * $xspacer}"
+    y2="425" stroke-width="{$bar-width}" stroke="yellow"/>
+    
+    <line x1="{let $actcount := $ali-speeches//Q{}act[@cat="active-resistance" or @cat="self-defense"] =>count() div $ali-speeches//Q{}act=>count()
+    return $actcount * $xspacer}" y1="425"
+    x2="{$xspacer}"
+    y2="425" stroke-width="{$bar-width}" stroke="green"/>
+    
+    <!--BPP Master line-->
+    <line x1="0" y1="475" 
+      x2="{let $actCount := $bpp-speeches//Q{}act[@cat="active-resistance"] => count() div $bpp-speeches//Q{}act=>count()
+    return $actCount * $xspacer}" 
+    y2="475" stroke-width="{$bar-width}" stroke="red"/>
+    
+    <line x1="{let $actCount := $bpp-speeches//Q{}act[@cat="active-resistance"] => count() div $bpp-speeches//Q{}act=>count()
+    return $actCount * $xspacer}" y1="475" 
+      x2="{let $actCount := $bpp-speeches//Q{}act[@cat="active-resistance" or @cat="self-defense"] => count() div $bpp-speeches//Q{}act=>count()
+    return $actCount * $xspacer}" 
+    y2="475" stroke-width="{$bar-width}" stroke="yellow"/>
+    
+    <line x1="{let $actCount := $bpp-speeches//Q{}act[@cat="active-resistance" or @cat="self-defense"] => count() div $bpp-speeches//Q{}act=>count()
+    return $actCount * $xspacer}"  y1="475" 
+      x2="{$xspacer}" 
+    y2="475" stroke-width="{$bar-width}" stroke="green"/>
+    
+    <!--Newton line-->
+    <line x1="0" y1="525"
+    x2="{let $actcount := $newton-speeches//Q{}act[@cat="active-resistance"] => count() div $newton-speeches//Q{}act=>count()
+    return $actcount * $xspacer}"
+    y2="525" stroke-width="{$bar-width}" stroke="red"/>
+    
+    <line x1="{let $actcount := $newton-speeches//Q{}act[@cat="active-resistance"] => count() div $newton-speeches//Q{}act=>count()
+    return $actcount * $xspacer}" y1="525"
+    x2="{let $actcount := $newton-speeches//Q{}act[@cat="active-resistance" or @cat="self-defense"] => count() div $newton-speeches//Q{}act=>count()
+    return $actcount * $xspacer}"
+    y2="525" stroke-width="{$bar-width}" stroke="yellow"/>
+    
+    <line x1="{let $actcount := $newton-speeches//Q{}act[@cat="active-resistance" or @cat="self-defense"] =>count() div $newton-speeches//Q{}act=>count()
+    return $actcount * $xspacer}" y1="525"
+    x2="{$xspacer}"
+    y2="525" stroke-width="{$bar-width}" stroke="green"/>
+    
+    <!--Hamton line-->
+    <line x1="0" y1="575"
+    x2="{let $actcount := $hampton-speeches//Q{}act[@cat="active-resistance"] => count() div $hampton-speeches//Q{}act=>count()
+    return $actcount * $xspacer}"
+    y2="575" stroke-width="{$bar-width}" stroke="red"/>
+    
+    <line x1="{let $actcount := $hampton-speeches//Q{}act[@cat="active-resistance"] => count() div $hampton-speeches//Q{}act=>count()
+    return $actcount * $xspacer}" y1="575"
+    x2="{let $actcount := $hampton-speeches//Q{}act[@cat="active-resistance" or @cat="self-defense"] => count() div $hampton-speeches//Q{}act=>count()
+    return $actcount * $xspacer}"
+    y2="575" stroke-width="{$bar-width}" stroke="yellow"/>
+    
+    <line x1="{let $actcount := $hampton-speeches//Q{}act[@cat="active-resistance" or @cat="self-defense"] =>count() div $hampton-speeches//Q{}act=>count()
+    return $actcount * $xspacer}" y1="575"
+    x2="{$xspacer}"
+    y2="575" stroke-width="{$bar-width}" stroke="green"/>
+    
     
     </g>
 </g>
