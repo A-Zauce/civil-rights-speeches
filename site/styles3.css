@@ -106,8 +106,6 @@ body{
 
 
 .row {  
-  display: flex;
-  flex-wrap: wrap;
 }
 
 
@@ -153,6 +151,26 @@ body{
   font-size: 30px;
 }
 
+.subnav{
+    position: sticky;
+    display: inline-block;
+    float: right;
+    height: auto;
+    width: 12%;
+    top: 20%;
+    right: 3%;
+    background: #252525;
+    text-align: center;
+    opacity: 0.5;
+    color: #fffcfd;
+    border-radius: 6px;
+    transition: opacity 0.3s;
+}
+
+.subnav:hover {
+    opacity: 1;
+}
+
 .tooltip { /* bookmark */
   position: relative;
   display: inline-block;
@@ -178,7 +196,30 @@ body{
   transition: opacity 0.5s;
 }
 
+.tooltip .tooltipvar {
+  visibility: hidden;
+  width: 50%;
+  background-color: #dfdcdd;
+  color: #000000;
+  text-align: left;
+  padding: 6px 6px;
+  border-radius: 6px;
+  float: left;
+
+  position: absolute;
+  z-index: 1;
+  bottom: 20%;
+  left: 100%;
+
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
 .tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+.tooltip:hover .tooltipvar {
   visibility: visible;
   opacity: 1;
 }
