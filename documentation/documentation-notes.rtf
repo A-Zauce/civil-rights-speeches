@@ -1,0 +1,17 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2706
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c100000;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww15200\viewh10260\viewkind0
+\deftab720
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\fs32 \cf0 \cb2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 -How you worked to achieve that (selecting texts, xml markup, xslt/xquery processing, css, presentation layout, and so on)\
+-Some decisions you had to make along the way, and why you chose the things you did\
+-Some suggestions for what else could be done with your code or discoveries\
+Methods:\
+The raw data for our project came from the speeches delivered by each of the 3 main categories of Civil Rights activists: nonviolent, the NOI, and the BPP. These speeches either already existed in an online transcript, or the group member marking up that speech had to listen to the speech\'92s recording and make a rough transcript of the speech itself. But for the most part, the speeches we used are well known and therefore have already been typed up online. \
+The next step from getting the speeches themselves and the copyright information in an xml document was then to frame the speech with some basic tags. These were identifier tags that included the speech title, the speaker\'92s name, the speaker\'92s organization (NVM, NOI, or BPP), the speech\'92s date, and then the source from where the speech was found. These xml markups are stored in our XML folder on our repo. Using regex for most of the speeches, the paragraphs were tagged using a close-open strategy. \
+The XML markup posed a challenge because a lot of the things that were tagged in the speeches are subjective. Out of the 5 group members, I think all of us tagged at least one part of a speech, so there were different perspectives when tagging the speeches. Some of the nonnegotiable tags were of course the <p> tags, then the <people> tags which was a simple tag that gave the name of the person in an attribute value. \
+The more complicated tags include set, org, cause, and acts. The <set> tags defined each of the groups listed in a speech. This categorization could include anything from an ethnic or racial group, a religious group, and age-defied group, and an occupational group. The <cause> tags defined a category of which the speaker was referring to. This could tag class unity, segregation, integration, schooling, and more. This is however, different from the <acts> tags because the acts tags identify direct actions on the behalf of each speaker. The acts are defined by the groups of Civil Rights activism our group set out to compare from the start: Nonviolence, active resistance, and self-defense. The <org> tags identify an organization that each speaker refers to. This includes democratic groups such as Democrats and Republicans, organized groups like SNCC, CORE, and the NAACP, and religious organizations such as churches. The org tags are meant to be used when referring to more organized groups. }
