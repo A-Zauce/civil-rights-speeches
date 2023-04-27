@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 1100 550">
-   <g transform="translate(150,100)">
+   <g transform="translate(200,100)">
       <g>
          <text x="0" y="-5" font-family="" font-size="" fill="">Frequency of Acts by Organizations</text>
+         <text x="-55" y="25">NVM</text>
+         <text x="-110" y="75">Joseph Jackson</text>
+         <text x="-160" y="125">MLK (I have a Dream)</text>
+         <text x="-140" y="175">MLK (Mountaintop)</text>
+         <text x="-140" y="225">Stokely Carmichael</text>
+         <text x="-55" y="275">NOI</text>
+         <text x="-195" y="325">Malcolm X (Ballot or Bullet)</text>
+         <text x="-165" y="375">Malcolm X (Grassroots)</text>
+         <text x="-110" y="425">Muhammad Ali</text>
+         <text x="-55" y="475">BPP</text>
+         <text x="-100" y="525">Huey Newton</text>
+         <text x="-100" y="575">Fred Hampton</text>
       </g>
       <g><!--NVM Master Line-->
          <line x1="0"
@@ -230,6 +242,46 @@
                y2="575"
                stroke-width="30"
                stroke="green"/>
+         <line x1="0"
+               y1="0"
+               x2="0"
+               y2="600"
+               stroke-width="5"
+               stroke="black"/>
+         <line x1="-2"
+               y1="600"
+               x2="800"
+               y2="600"
+               stroke-width="5"
+               stroke="black"/>
+         <line x1="200"
+               y1="595"
+               x2="200"
+               y2="605"
+               stroke-width="3"
+               stroke="black"/>
+         <text x="190" y="625">25%</text>
+         <line x1="400"
+               y1="595"
+               x2="400"
+               y2="605"
+               stroke-width="3"
+               stroke="black"/>
+         <text x="390" y="625">50%</text>
+         <line x1="600"
+               y1="595"
+               x2="600"
+               y2="605"
+               stroke-width="3"
+               stroke="black"/>
+         <text x="590" y="625">75%</text>
+         <line x1="800"
+               y1="595"
+               x2="800"
+               y2="605"
+               stroke-width="3"
+               stroke="black"/>
+         <text x="790" y="625">100%</text>
       </g>
    </g>
 </svg>
