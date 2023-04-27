@@ -17,7 +17,7 @@ declare variable $bar-width :=30;
 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 1100 550">
 <g transform="translate(200,100)">
 <g>
-<text x="0" y="-5" font-family="" font-size="" fill="">Frequency of Acts by Organizations</text>
+<text x="0" y="-5" font-family="" font-size="" fill="">Frequency of Acts by Organizations and Individual Speakers</text>
 <text x="-55" y="25">NVM</text>
 <text x="-110" y="75">Joseph Jackson</text>
 <text x="-160" y="125">MLK (I have a Dream)</text>
@@ -239,14 +239,14 @@ declare variable $bar-width :=30;
     <line x1="0" y1="0" x2="0" y2="600" stroke-width="5" stroke="black"/>
     <line x1="-2" y1="600" x2="800" y2="600" stroke-width="5" stroke="black"/>
     <line x1="200" y1="595" x2="200" y2="605" stroke-width="3" stroke="black"/>
-    <text x="190" y="625">25%</text>
     <line x1="400" y1="595" x2="400" y2="605" stroke-width="3" stroke="black"/>
-    <text x="390" y="625">50%</text>
     <line x1="600" y1="595" x2="600" y2="605" stroke-width="3" stroke="black"/>
-    <text x="590" y="625">75%</text>
     <line x1="800" y1="595" x2="800" y2="605" stroke-width="3" stroke="black"/>
-    <text x="790" y="625">100%</text>
-    
+        <text x="190" y="625">25%</text>
+        <text x="390" y="625">50%</text>
+        <text x="590" y="625">75%</text>
+        <text x="790" y="625">100%</text>
+
     
     </g>
 </g>

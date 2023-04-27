@@ -8,6 +8,8 @@ declare variable $bar-width := 30;
 <g transform="translate(150,100)">
 <g>
 <text x="0" y="-5" font-family="" font-size="" fill="">Frequency of Acts by Martin Luther King Jr.</text>
+<text x="-110" y="100">I have a Dream</text>
+<text x="-110" y="200">Mountaintop</text>
 </g>
 <g>
 
@@ -45,8 +47,18 @@ declare variable $bar-width := 30;
     x2="{$xspacer}"
     y2="200" stroke-width="{$bar-width}" stroke="green"/>
     
-    <line x1="0" y1="0" x2="0" y2="125" stroke-width="5" stroke="black"/>
-    <line x1="-2" y1="125" x2="800" y2="125" stroke-width="5" stroke="black"/>
+    <line x1="0" y1="0" x2="0" y2="225" stroke-width="5" stroke="black"/>
+    <line x1="-2" y1="225" x2="800" y2="225" stroke-width="5" stroke="black"/>
+    
+    <line x1="200" y1="220" x2="200" y2="230" stroke-width="3" stroke="black"/>
+    <line x1="400" y1="220" x2="400" y2="230" stroke-width="3" stroke="black"/>
+    <line x1="600" y1="220" x2="600" y2="230" stroke-width="3" stroke="black"/>
+    <line x1="800" y1="220" x2="800" y2="230" stroke-width="3" stroke="black"/>
+    
+    <text x="190" y="250">25%</text>
+        <text x="390" y="250">50%</text>
+        <text x="590" y="250">75%</text>
+        <text x="790" y="250">100%</text>
     
     </g>
     </g>

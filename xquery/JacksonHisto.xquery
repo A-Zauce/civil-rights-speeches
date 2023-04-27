@@ -31,6 +31,16 @@ declare variable $bar-width := 30;
     <line x1="0" y1="0" x2="0" y2="125" stroke-width="5" stroke="black"/>
     <line x1="-2" y1="125" x2="800" y2="125" stroke-width="5" stroke="black"/>
     
+    <line x1="200" y1="120" x2="200" y2="130" stroke-width="3" stroke="black"/>
+    <line x1="400" y1="120" x2="400" y2="130" stroke-width="3" stroke="black"/>
+    <line x1="600" y1="120" x2="600" y2="130" stroke-width="3" stroke="black"/>
+    <line x1="800" y1="120" x2="800" y2="130" stroke-width="3" stroke="black"/>
+    
+    <text x="190" y="150">25%</text>
+        <text x="390" y="150">50%</text>
+        <text x="590" y="150">75%</text>
+        <text x="790" y="150">100%</text>
+    
     </g>
     </g>
 </g>
