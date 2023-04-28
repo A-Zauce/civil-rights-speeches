@@ -1,0 +1,179 @@
+{ 
+
+ "elements": [ 
+
+ { 
+
+ "label":  " h newton ", 
+
+ "type": "speaker" 
+
+ }, 
+
+ { 
+
+ "label":  " women ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " lgbtq ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " oppressed ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " racists ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " black people ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " revol orgs ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " us men ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " oppressors ", 
+
+ "type": "group" 
+
+ } 
+
+ ], 
+
+ "connections": [ 
+
+ { 
+
+ "from":  " h newton ", 
+
+ "to": " women ", 
+
+ "size":  9 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " h newton ", 
+
+ "to": " lgbtq ", 
+
+ "size":  12 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " h newton ", 
+
+ "to": " oppressed ", 
+
+ "size":  3 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " h newton ", 
+
+ "to": " racists ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " h newton ", 
+
+ "to": " black people ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " h newton ", 
+
+ "to": " revol orgs ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " h newton ", 
+
+ "to": " us men ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " h newton ", 
+
+ "to": " oppressors ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ } 
+
+ ] 
+
+ }
