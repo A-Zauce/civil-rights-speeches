@@ -1,0 +1,79 @@
+{ 
+
+ "elements": [ 
+
+ { 
+
+ "label":  " MLK ", 
+
+ "type": "speaker" 
+
+ }, 
+
+ { 
+
+ "label":  " afro-american ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " baptist ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " founders ", 
+
+ "type": "group" 
+
+ } 
+
+ ], 
+
+ "connections": [ 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " afro-american ", 
+
+ "size":  3 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " baptist ", 
+
+ "size":  2 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " MLK ", 
+
+ "to": " founders ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ } 
+
+ ] 
+
+ }
