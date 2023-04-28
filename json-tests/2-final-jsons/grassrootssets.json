@@ -1,0 +1,400 @@
+{ 
+
+ "elements": [ 
+
+ { 
+
+ "label":  " malcolm x ", 
+
+ "type": "speaker" 
+
+ }, 
+
+ { 
+
+ "label":  " blacks ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " baptist ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " methodist ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " democrat ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " republican ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " american ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " european ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " Buddhists ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " muslim ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " christians ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " confucianists ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " atheists ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " communists ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " socialists ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " capitalists ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " african ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " white ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " uncle toms ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " mau mau ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " black nationalism ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " 6cr leader ", 
+
+ "type": "group" 
+
+ } 
+
+ ], 
+
+ "connections": [ 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " blacks ", 
+
+ "size":  77 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " baptist ", 
+
+ "size":  3 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " methodist ", 
+
+ "size":  3 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " democrat ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " republican ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " american ", 
+
+ "size":  4 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " european ", 
+
+ "size":  43 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " Buddhists ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " muslim ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " christians ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " confucianists ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " atheists ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " communists ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " socialists ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " capitalists ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " african ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " white ", 
+
+ "size":  3 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " malcolm x ", 
+
+ "to": " uncle toms ", 
+
+ "size":  8 , 
+
+ "opinion":  0 
+
+ }, 
+
