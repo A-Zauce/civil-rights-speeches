@@ -1,0 +1,159 @@
+{ 
+
+ "elements": [ 
+
+ { 
+
+ "label":  " joseph h jackson ", 
+
+ "type": "speaker" 
+
+ }, 
+
+ { 
+
+ "label":  " christians ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " founding fathers ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " americans ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " black ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " congressmen ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " segregationist ", 
+
+ "type": "group" 
+
+ }, 
+
+ { 
+
+ "label":  " racist ", 
+
+ "type": "group" 
+
+ } 
+
+ ], 
+
+ "connections": [ 
+
+ { 
+
+ "from":  " joseph h jackson ", 
+
+ "to": " christians ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " joseph h jackson ", 
+
+ "to": " founding fathers ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " joseph h jackson ", 
+
+ "to": " americans ", 
+
+ "size":  24 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " joseph h jackson ", 
+
+ "to": " black ", 
+
+ "size":  8 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " joseph h jackson ", 
+
+ "to": " congressmen ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " joseph h jackson ", 
+
+ "to": " segregationist ", 
+
+ "size":  8 , 
+
+ "opinion":  0 
+
+ }, 
+
+ { 
+
+ "from":  " joseph h jackson ", 
+
+ "to": " racist ", 
+
+ "size":  1 , 
+
+ "opinion":  0 
+
+ } 
+
+ ] 
+
+ }
