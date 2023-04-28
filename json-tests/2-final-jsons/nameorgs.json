@@ -1,0 +1,39 @@
+{ 
+
+ "elements": [ 
+
+ { 
+
+ "label":  " muhammad ali ", 
+
+ "type": "speaker" 
+
+ }, 
+
+ { 
+
+ "label":  " black pather ", 
+
+ "type": "group" 
+
+ } 
+
+ ], 
+
+ "connections": [ 
+
+ { 
+
+ "from":  " muhammad ali ", 
+
+ "to": " black pather ", 
+
+ "size":  1 , 
+
+ "opinion":  5 
+
+ } 
+
+ ] 
+
+ }
